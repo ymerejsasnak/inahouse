@@ -1,3 +1,5 @@
+import random as r
+
 class Setting():
     '''Creates and stores the rooms that make up the house which is the setting.
     Picks from a list of possible rooms, with possible adjectives (that link to

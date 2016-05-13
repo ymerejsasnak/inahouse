@@ -1,3 +1,4 @@
+import random as r
 import setting, character, item
 
 class Narrator():
