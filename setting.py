@@ -6,8 +6,6 @@ GIVEN_ROOMS = ['bathroom', 'kitchen', 'living room',
     'first bedroom', 'second bedroom', 'third bedroom']
 # rooms that are sometimes added
 EXTRA_ROOMS = ['basement', 'spare bedroom', 'dining room', 'empty room', 'attic']
-ROOM_DESCRIPTORS = ['cramped', 'dingy', 'cluttered', 'foul-smelling',
-    'dimly-lit', 'unusual', 'uncomfortable']
 
 
 class Setting():
@@ -19,12 +17,9 @@ class Setting():
     that exist beyond the characters (ie, run out of food, fire in the house, etc)'''
     
     def __init__(self):
-        self.rooms = {}
-        rooms = []
-        rooms.extend(GIVEN_ROOMS)
+        self.rooms = []
+        self.rooms.extend(GIVEN_ROOMS)
         extras = r.randint(0, 5)
-        rooms.extend(r.sample(EXTRA_ROOMS, extras))
-        for room in rooms:
-            self.rooms[room] = r.choice(ROOM_DESCRIPTORS)
+        self.rooms.extend(r.sample(EXTRA_ROOMS, extras))
             
         
