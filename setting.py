@@ -1,5 +1,15 @@
 import random as r
 
+
+# rooms that are always used
+GIVEN_ROOMS = ['bathroom', 'kitchen', 'living room', 
+    'first bedroom', 'second bedroom', 'third bedroom']
+# rooms that are sometimes added
+EXTRA_ROOMS = ['basement', 'spare bedroom', 'dining room', 'empty room', 'attic']
+ROOM_DESCRIPTORS = ['cramped', 'dingy', 'cluttered', 'foul-smelling',
+    'dimly-lit', 'unusual', 'uncomfortable']
+
+
 class Setting():
     '''Creates and stores the rooms that make up the house which is the setting.
     Picks from a list of possible rooms, with possible adjectives (that link to
@@ -9,5 +19,12 @@ class Setting():
     that exist beyond the characters (ie, run out of food, fire in the house, etc)'''
     
     def __init__(self):
-        #rooms (as dict?)
-        pass
+        self.rooms = {}
+        rooms = []
+        rooms.extend(GIVEN_ROOMS)
+        extras = r.randint(0, 5)
+        rooms.extend(r.sample(EXTRA_ROOMS, extras))
+        for room in rooms:
+            self.rooms[room] = r.choice(ROOM_DESCRIPTORS)
+            
+        
