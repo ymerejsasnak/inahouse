@@ -20,3 +20,9 @@ objects interact, enough variability etc, that the stories that are generated
 actually SURPRISE me in joyful/absurd/creepy/funny/whatever ways
 
 (the above may be far beyond my abilities...but we shall see what I can do...)
+
+
+
+
+TO DO NEXT!
+

@@ -14,6 +14,8 @@ FIRST_NAMES = {
 LAST_NAMES = ['Alvarez', 'Burton', 'Dutton', 'Fortunado', 'Ives', 'Jenkins',
     'Kolchek', 'Liszewksi', 'Ng', 'Placensio', 'Quint', 'Undermann', 'Zyk']
     
+PRONOUNS = {'M': 'he', 'F': 'she'}
+    
     
 class Character():
     '''These are the main actors of the story (of course!).  All aspects randomized
@@ -63,11 +65,13 @@ class Character():
             other_rooms = list(ROOMS)
             other_rooms.remove(self.location)
             self.location = r.choice(other_rooms)
-            print(self.full_name + ' enters the ' + self.location + '. ', end='')
+            return self.full_name + ' enters the ' + self.location + '. '
         # or stay in current room
         else:
-            print(self.full_name + ' stays in the ' + self.location + '. ', end='')
+            return self.full_name + ' stays in the ' + self.location + '. '
         
+    def act(self):
+        return PRONOUNS[self.sex].capitalize() + ' looks around. ' # dummy action for now
         
         
 # define an 'act' method that determines what the char will do on each 'turn'

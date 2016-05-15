@@ -18,6 +18,7 @@ class Narrator():
     (example:  if outlook + interpersonal < 2 and scene == 3 then suicide)'''
     
     def __init__(self):
+        self.story = ''
         self.setting = setting.Setting()
         self.characters = [character.Character() for i in range(3)]
         self.time = datetime.datetime(1, 1, 1, 8)  # start at 8am
@@ -31,16 +32,18 @@ class Narrator():
     def increment_time(self):
         self.time += datetime.timedelta(minutes=15)
         variation = r.randint(-5, 5) # just for variation to printed time
-        print('\n\tIt is now ' + str((self.time + datetime.timedelta(minutes=variation)).time()) + '. ', end='')
+        #self.story += '\n\tAt ' + str((self.time + datetime.timedelta(minutes=variation)).time()) + ' '
+        self.story += '\n\tAt ' + (self.time + datetime.timedelta(minutes=variation)).strftime('%I:%M %p') + ' '
         
-    def movement(self):
+        
+    def action(self):
         for character in self.characters:
-            character.move()
-        # and make sure setting object knows where characters are
+            self.story += character.move()
+            self.story += character.act()
+        # and make sure setting object knows where characters are now
         self.setting.update_occupants(self.characters)
     
-    def action(self):
-        pass
+    
 
     
 
@@ -49,5 +52,7 @@ class Narrator():
 n = Narrator()
 for i in range(INTERVALS_PER_SCENE):
     n.increment_time()
-    n.movement()
+    n.action()
+    
+print(n.story)
 
