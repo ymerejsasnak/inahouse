@@ -28,18 +28,22 @@ class Character():
         self.last_name = r.choice(LAST_NAMES)
         self.age = r.randint(20, 50)
         
+        # status flags
+        self.alive = True
+        self.awake = True        
+        
         # aspects of personality that don't change (or change little/slowly)
-        self.outlook = r.uniform(0, 1)         # 0 totally pessimistic to 1 totally optimistic
-        self.interpersonal = r.uniform(0, 1)   # 0 totally introverted to 1 totally extroverted
-        self.attractiveness = r.uniform(0, 1)  # 0 ugly to 1 gorgeous
+        self.outlook = r.randint(0, 10)         # 0 totally pessimistic to 10 totally optimistic
+        self.interpersonal = r.randint(0, 10)   # 0 totally introverted to 10 totally extroverted
+        self.attractiveness = r.randint(0, 10)  # 0 ugly to 10 gorgeous
         
         # aspects of character that can easily change throughout story
-        self.hunger = r.uniform(0, 1)         # 0 totally sated to 1 starving
-        self.sleepiness = r.uniform(0, 1)     # 0 totally rested to 1 exhausted
-        self.pain_pleasure = r.uniform(0, 1)  # 0 excruciating to 1 orgasmic
-        self.happiness = r.uniform(0, 1)      # 0 suicidal to 1 euphoric
-        self.anxiety = r.uniform(0, 1)        # 0 serene to 1 panic attack
-        self.anger = r.uniform(0, 1)          # 0 fine to 1 raging
+        self.hunger = r.randint(0, 10)         # 0 totally sated to 10 starving
+        self.sleepiness = r.randint(0, 10)     # 0 totally rested to 10 exhausted
+        self.pain_pleasure = r.randint(0, 10)  # 0 excruciating to 10 orgasmic
+        self.happiness = r.randint(0, 10)      # 0 suicidal to 10 euphoric
+        self.anxiety = r.randint(0, 10)        # 0 serene to 10 panic attack
+        self.anger = r.randint(0, 10)          # 0 fine to 10 raging
         
         
         #memories, preferred rooms, preferred objects, hated rooms/objects

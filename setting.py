@@ -1,25 +1,18 @@
 import random as r
 
 
-# rooms that are always used
-GIVEN_ROOMS = ['bathroom', 'kitchen', 'living room', 
-    'first bedroom', 'second bedroom', 'third bedroom']
-# rooms that are sometimes added
-EXTRA_ROOMS = ['basement', 'spare bedroom', 'dining room', 'empty room', 'attic']
+ROOMS = ['bathroom', 'kitchen', 'living room', 'bedroom', 'basement'] 
 
 
 class Setting():
     '''Creates and stores the rooms that make up the house which is the setting.
-    Picks from a list of possible rooms, with possible adjectives (that link to
-    certain flags that trigger certain aspects of characters), all of which
-    can possibly influence the characters.  Also will keep track of room contents
-    (both characters and item objects).  Also put possible random events here
-    that exist beyond the characters (ie, run out of food, fire in the house, etc)'''
+    Keeping simple for now with a given list of rooms.  Maybe later add random
+    rooms and more importantly add possible descriptors for the rooms that can
+    trigger certain character actions and/or affect character stats.  For now
+    load them into a dict that keeps track of 'contents' and 'occupants'.'''
     
     def __init__(self):
-        self.rooms = []
-        self.rooms.extend(GIVEN_ROOMS)
-        extras = r.randint(0, 5)
-        self.rooms.extend(r.sample(EXTRA_ROOMS, extras))
+        self.contents = {key: [] for key in ROOMS}
+        self.occupants = {key: [] for key in ROOMS}
             
         

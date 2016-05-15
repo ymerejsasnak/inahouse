@@ -9,7 +9,7 @@ objects involved (each in individual files with more descriptions therein):
 story: controls the interaction of other objects and the generation of the text
 setting: the object that defines a room/contains the rooms (we'll see...)
 character: randomized people that act according to various variables and whatnot
-object: 'object' in the physical world sense...things for the characters to interact with
+item: 'object' in the physical world sense...things for the characters to interact with
 
 big goals/ideals: 
 1 - to make the code have enough randomness and possibility within it that 
