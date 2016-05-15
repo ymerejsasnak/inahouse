@@ -13,12 +13,25 @@ class Narrator():
     (example:  if outlook + interpersonal < 2 and scene == 3 then suicide)'''
     
     def __init__(self):
-        #setting (list of rooms?)
-        #list of characters
+        self.setting = setting.Setting()
+        self.characters = [character.Character() for i in range(3)]
+        
         #list of objects
         #time (time of day) increment by 15 minutes each 'turn' but if used in story
             #write it as random time + or - 5 minutes of internal time for variation
         #act - story progresses from act I to act III, which will hopefully
             #influence character actions (more interesting/intense things as acts go on)
-        pass 
     
+    def movement(self):
+        for character in self.characters:
+            character.move()
+        # and make sure setting object knows where characters are
+        self.setting.update_occupants(self.characters) 
+
+    
+
+
+# main program for now
+n = Narrator()
+for i in range(5):
+    n.movement()

@@ -15,4 +15,10 @@ class Setting():
         self.contents = {key: [] for key in ROOMS}
         self.occupants = {key: [] for key in ROOMS}
             
+    def update_occupants(self, characters):
+        # clear old locations
+        self.occupants = {key: [] for key in ROOMS}
+        # then update with new ones
+        for character in characters:
+            self.occupants[character.location] = character
         

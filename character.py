@@ -1,6 +1,9 @@
 import random as r
 
 
+ROOMS = ['bathroom', 'kitchen', 'living room', 'bedroom', 'basement'] 
+
+
 # lists/dicts from which to choose options for character creation
 FIRST_NAMES = {
     'M': ['Alex', 'Burt', 'Calvin', 'Diego', 'Eric', 'Frank', 'George', 
@@ -14,12 +17,16 @@ LAST_NAMES = ['Alvarez', 'Burton', 'Dutton', 'Fortunado', 'Ives', 'Jenkins',
     
 class Character():
     '''These are the main actors of the story (of course!).  All aspects randomized
-    at instantiation.  Most 'traits' will be a value between 0 and 1.  Also some
+    at instantiation.  Most 'traits' will be a value between 0 and 10.  Also some
     true/false personality flags (some of which may be rarer than others).  Also stores
     inventory if they pick up objects, method of speaking for dialogue and 
     catch-phrases if any.  Name, physical description, mood, memories (old and story-based), 
     typical behaviors, etc.  Shoudl there also be a protagonist flag to follow
     one main character, or should the narrative just jump around and follow them all?'''
+        
+    #future ideas:
+    #memories, preferred rooms, preferred objects, hated rooms/objects
+    #typical behaviors/actions (maybe just lists of words to say sometimes?)
     
     def __init__(self):
         # basics
@@ -45,11 +52,16 @@ class Character():
         self.anxiety = r.randint(0, 10)        # 0 serene to 10 panic attack
         self.anger = r.randint(0, 10)          # 0 fine to 10 raging
         
-        
-        #memories, preferred rooms, preferred objects, hated rooms/objects
-        #typical behaviors/actions (maybe just lists of words to say sometimes?)
-        
+        self.inventory = []
+        self.location = 'bedroom'
 
+    def move(self):
+        # for now, random movements each turn
+        self.location = r.choice(ROOMS)
+        print(self.first_name + ' enters the ' + self.location + '.')
+        
+        
+        
 # define an 'act' method that determines what the char will do on each 'turn'
 #(this will be called by narrator for each char)
 
