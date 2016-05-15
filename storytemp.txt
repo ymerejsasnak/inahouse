@@ -1,133 +1,138 @@
 
-	At 08:11 AM Eric Ng stays in the bedroom. He looks around. Oliver Kolchek enters the living room. He looks around. Iris Undermann stays in the bedroom. She looks around. 
-	"Hello, Iris," said Eric. 
-	"Hello, Eric," said Iris. 
-	At 08:25 AM Eric Ng enters the basement. He looks around. Oliver Kolchek stays in the living room. He looks around. Iris Undermann enters the basement. She looks around. 
-	"Hello, Iris," said Eric. 
-	"Hello, Eric," said Iris. 
-	At 08:42 AM Eric Ng enters the living room. He looks around. Oliver Kolchek enters the kitchen. He looks around. Iris Undermann stays in the basement. She looks around. 
-	At 08:56 AM Eric Ng enters the bathroom. He looks around. Oliver Kolchek stays in the kitchen. He looks around. Iris Undermann enters the bathroom. She looks around. 
-	"Hello, Iris," said Eric. 
-	"Hello, Eric," said Iris. 
-	At 09:18 AM Eric Ng stays in the bathroom. He looks around. Oliver Kolchek stays in the kitchen. He looks around. Iris Undermann stays in the bathroom. She looks around. 
-	"Hello, Iris," said Eric. 
-	"Hello, Eric," said Iris. 
-	At 09:35 AM Eric Ng enters the living room. He looks around. Oliver Kolchek enters the basement. He looks around. Iris Undermann stays in the bathroom. She looks around. 
-	At 09:49 AM Eric Ng stays in the living room. He looks around. Oliver Kolchek stays in the basement. He looks around. Iris Undermann enters the living room. She looks around. 
-	"Hello, Iris," said Eric. 
-	"Hello, Eric," said Iris. 
-	At 09:56 AM Eric Ng stays in the living room. He looks around. Oliver Kolchek enters the bathroom. He looks around. Iris Undermann enters the basement. She looks around. 
-	At 10:13 AM Eric Ng enters the basement. He looks around. Oliver Kolchek enters the living room. He looks around. Iris Undermann stays in the basement. She looks around. 
-	"Hello, Iris," said Eric. 
-	"Hello, Eric," said Iris. 
-	At 10:34 AM Eric Ng stays in the basement. He looks around. Oliver Kolchek enters the basement. He looks around. Iris Undermann enters the living room. She looks around. 
-	"Hello, Oliver," said Eric. 
-	"Hello, Eric," said Oliver. 
-	At 10:40 AM Eric Ng stays in the basement. He looks around. Oliver Kolchek enters the living room. He looks around. Iris Undermann stays in the living room. She looks around. 
-	"Hello, Iris," said Oliver. 
-	"Hello, Oliver," said Iris. 
-	At 10:56 AM Eric Ng enters the kitchen. He looks around. Oliver Kolchek enters the basement. He looks around. Iris Undermann stays in the living room. She looks around. 
-	At 11:18 AM Eric Ng stays in the kitchen. He looks around. Oliver Kolchek stays in the basement. He looks around. Iris Undermann enters the bathroom. She looks around. 
-	At 11:33 AM Eric Ng stays in the kitchen. He looks around. Oliver Kolchek stays in the basement. He looks around. Iris Undermann stays in the bathroom. She looks around. 
-	At 11:46 AM Eric Ng enters the bedroom. He looks around. Oliver Kolchek stays in the basement. He looks around. Iris Undermann stays in the bathroom. She looks around. 
-	At 11:58 AM Eric Ng stays in the bedroom. He looks around. Oliver Kolchek enters the bathroom. He looks around. Iris Undermann stays in the bathroom. She looks around. 
-	"Hello, Iris," said Oliver. 
-	"Hello, Oliver," said Iris. 
-	At 12:13 PM Eric Ng stays in the bedroom. He looks around. Oliver Kolchek enters the bedroom. He looks around. Iris Undermann enters the kitchen. She looks around. 
-	"Hello, Oliver," said Eric. 
-	"Hello, Eric," said Oliver. 
-	At 12:27 PM Eric Ng enters the bathroom. He looks around. Oliver Kolchek stays in the bedroom. He looks around. Iris Undermann stays in the kitchen. She looks around. 
-	At 12:41 PM Eric Ng enters the bedroom. He looks around. Oliver Kolchek stays in the bedroom. He looks around. Iris Undermann enters the living room. She looks around. 
-	"Hello, Oliver," said Eric. 
-	"Hello, Eric," said Oliver. 
-	At 12:58 PM Eric Ng enters the basement. He looks around. Oliver Kolchek enters the basement. He looks around. Iris Undermann stays in the living room. She looks around. 
-	"Hello, Oliver," said Eric. 
-	"Hello, Eric," said Oliver. 
-	At 01:14 PM Eric Ng enters the bedroom. He looks around. Oliver Kolchek stays in the basement. He looks around. Iris Undermann enters the basement. She looks around. 
-	"Hello, Iris," said Oliver. 
-	"Hello, Oliver," said Iris. 
-	At 01:29 PM Eric Ng enters the living room. He looks around. Oliver Kolchek stays in the basement. He looks around. Iris Undermann stays in the basement. She looks around. 
-	"Hello, Iris," said Oliver. 
-	"Hello, Oliver," said Iris. 
-	At 01:50 PM Eric Ng enters the basement. He looks around. Oliver Kolchek enters the bedroom. He looks around. Iris Undermann stays in the basement. She looks around. 
-	"Hello, Iris," said Eric. 
-	"Hello, Eric," said Iris. 
-	At 01:59 PM Eric Ng stays in the basement. He looks around. Oliver Kolchek stays in the bedroom. He looks around. Iris Undermann stays in the basement. She looks around. 
-	"Hello, Iris," said Eric. 
-	"Hello, Eric," said Iris. 
-	At 02:19 PM Eric Ng stays in the basement. He looks around. Oliver Kolchek stays in the bedroom. He looks around. Iris Undermann stays in the basement. She looks around. 
-	"Hello, Iris," said Eric. 
-	"Hello, Eric," said Iris. 
-	At 02:31 PM Eric Ng enters the living room. He looks around. Oliver Kolchek enters the basement. He looks around. Iris Undermann stays in the basement. She looks around. 
-	"Hello, Iris," said Oliver. 
-	"Hello, Oliver," said Iris. 
-	At 02:45 PM Eric Ng stays in the living room. He looks around. Oliver Kolchek enters the kitchen. He looks around. Iris Undermann stays in the basement. She looks around. 
-	At 03:00 PM Eric Ng enters the bedroom. He looks around. Oliver Kolchek enters the living room. He looks around. Iris Undermann stays in the basement. She looks around. 
-	At 03:20 PM Eric Ng enters the basement. He looks around. Oliver Kolchek enters the basement. He looks around. Iris Undermann enters the bedroom. She looks around. 
-	"Hello, Oliver," said Eric. 
-	"Hello, Eric," said Oliver. 
-	At 03:35 PM Eric Ng stays in the basement. He looks around. Oliver Kolchek stays in the basement. He looks around. Iris Undermann stays in the bedroom. She looks around. 
-	"Hello, Oliver," said Eric. 
-	"Hello, Eric," said Oliver. 
-	At 03:42 PM Eric Ng stays in the basement. He looks around. Oliver Kolchek enters the bedroom. He looks around. Iris Undermann stays in the bedroom. She looks around. 
-	"Hello, Iris," said Oliver. 
-	"Hello, Oliver," said Iris. 
-	At 04:01 PM Eric Ng enters the kitchen. He looks around. Oliver Kolchek enters the basement. He looks around. Iris Undermann enters the bathroom. She looks around. 
-	At 04:17 PM Eric Ng stays in the kitchen. He looks around. Oliver Kolchek enters the bedroom. He looks around. Iris Undermann enters the kitchen. She looks around. 
-	"Hello, Iris," said Eric. 
-	"Hello, Eric," said Iris. 
-	At 04:31 PM Eric Ng stays in the kitchen. He looks around. Oliver Kolchek stays in the bedroom. He looks around. Iris Undermann enters the living room. She looks around. 
-	At 04:45 PM Eric Ng enters the living room. He looks around. Oliver Kolchek enters the bathroom. He looks around. Iris Undermann stays in the living room. She looks around. 
-	"Hello, Iris," said Eric. 
-	"Hello, Eric," said Iris. 
-	At 05:00 PM Eric Ng stays in the living room. He looks around. Oliver Kolchek stays in the bathroom. He looks around. Iris Undermann enters the bedroom. She looks around. 
-	At 05:14 PM Eric Ng stays in the living room. He looks around. Oliver Kolchek enters the kitchen. He looks around. Iris Undermann stays in the bedroom. She looks around. 
-	At 05:25 PM Eric Ng stays in the living room. He looks around. Oliver Kolchek enters the bedroom. He looks around. Iris Undermann stays in the bedroom. She looks around. 
-	"Hello, Iris," said Oliver. 
-	"Hello, Oliver," said Iris. 
-	At 05:48 PM Eric Ng stays in the living room. He looks around. Oliver Kolchek enters the living room. He looks around. Iris Undermann stays in the bedroom. She looks around. 
-	"Hello, Oliver," said Eric. 
-	"Hello, Eric," said Oliver. 
-	At 05:56 PM Eric Ng stays in the living room. He looks around. Oliver Kolchek enters the bedroom. He looks around. Iris Undermann enters the bathroom. She looks around. 
-	At 06:15 PM Eric Ng stays in the living room. He looks around. Oliver Kolchek enters the bathroom. He looks around. Iris Undermann enters the basement. She looks around. 
-	At 06:28 PM Eric Ng enters the bedroom. He looks around. Oliver Kolchek enters the bedroom. He looks around. Iris Undermann enters the bedroom. She looks around. 
-	"Hello, Oliver," said Eric. 
-	"Hello, Eric," said Oliver. 
-	At 06:47 PM Eric Ng enters the living room. He looks around. Oliver Kolchek enters the bathroom. He looks around. Iris Undermann stays in the bedroom. She looks around. 
-	At 07:05 PM Eric Ng enters the basement. He looks around. Oliver Kolchek stays in the bathroom. He looks around. Iris Undermann enters the living room. She looks around. 
-	At 07:12 PM Eric Ng stays in the basement. He looks around. Oliver Kolchek enters the kitchen. He looks around. Iris Undermann enters the bedroom. She looks around. 
-	At 07:33 PM Eric Ng enters the living room. He looks around. Oliver Kolchek enters the bathroom. He looks around. Iris Undermann enters the living room. She looks around. 
-	"Hello, Iris," said Eric. 
-	"Hello, Eric," said Iris. 
-	At 07:46 PM Eric Ng enters the basement. He looks around. Oliver Kolchek enters the living room. He looks around. Iris Undermann stays in the living room. She looks around. 
-	"Hello, Iris," said Oliver. 
-	"Hello, Oliver," said Iris. 
-	At 07:58 PM Eric Ng stays in the basement. He looks around. Oliver Kolchek stays in the living room. He looks around. Iris Undermann stays in the living room. She looks around. 
-	"Hello, Iris," said Oliver. 
-	"Hello, Oliver," said Iris. 
-	At 08:11 PM Eric Ng enters the bedroom. He looks around. Oliver Kolchek enters the kitchen. He looks around. Iris Undermann enters the bathroom. She looks around. 
-	At 08:27 PM Eric Ng stays in the bedroom. He looks around. Oliver Kolchek enters the living room. He looks around. Iris Undermann enters the kitchen. She looks around. 
-	At 08:44 PM Eric Ng enters the kitchen. He looks around. Oliver Kolchek stays in the living room. He looks around. Iris Undermann enters the living room. She looks around. 
-	"Hello, Iris," said Oliver. 
-	"Hello, Oliver," said Iris. 
-	At 09:02 PM Eric Ng enters the bathroom. He looks around. Oliver Kolchek enters the kitchen. He looks around. Iris Undermann stays in the living room. She looks around. 
-	At 09:16 PM Eric Ng stays in the bathroom. He looks around. Oliver Kolchek stays in the kitchen. He looks around. Iris Undermann stays in the living room. She looks around. 
-	At 09:28 PM Eric Ng enters the kitchen. He looks around. Oliver Kolchek enters the bedroom. He looks around. Iris Undermann enters the kitchen. She looks around. 
-	"Hello, Iris," said Eric. 
-	"Hello, Eric," said Iris. 
-	At 09:42 PM Eric Ng enters the bedroom. He looks around. Oliver Kolchek enters the basement. He looks around. Iris Undermann stays in the kitchen. She looks around. 
-	At 10:00 PM Eric Ng enters the kitchen. He looks around. Oliver Kolchek enters the bathroom. He looks around. Iris Undermann enters the bedroom. She looks around. 
-	At 10:19 PM Eric Ng enters the bedroom. He looks around. Oliver Kolchek stays in the bathroom. He looks around. Iris Undermann enters the basement. She looks around. 
-	At 10:28 PM Eric Ng stays in the bedroom. He looks around. Oliver Kolchek stays in the bathroom. He looks around. Iris Undermann stays in the basement. She looks around. 
-	At 10:50 PM Eric Ng enters the bathroom. He looks around. Oliver Kolchek enters the basement. He looks around. Iris Undermann enters the bathroom. She looks around. 
-	"Hello, Iris," said Eric. 
-	"Hello, Eric," said Iris. 
-	At 10:57 PM Eric Ng stays in the bathroom. He looks around. Oliver Kolchek enters the kitchen. He looks around. Iris Undermann enters the kitchen. She looks around. 
-	"Hello, Iris," said Oliver. 
-	"Hello, Oliver," said Iris. 
-	At 11:16 PM Eric Ng stays in the bathroom. He looks around. Oliver Kolchek enters the basement. He looks around. Iris Undermann stays in the kitchen. She looks around. 
-	At 11:26 PM Eric Ng stays in the bathroom. He looks around. Oliver Kolchek enters the bedroom. He looks around. Iris Undermann enters the basement. She looks around. 
-	At 11:46 PM Eric Ng stays in the bathroom. He looks around. Oliver Kolchek stays in the bedroom. He looks around. Iris Undermann enters the bedroom. She looks around. 
-	"Hello, Iris," said Oliver. 
-	"Hello, Oliver," said Iris. 
-	At 12:05 AM Eric Ng enters the living room. He looks around. Oliver Kolchek stays in the bedroom. He looks around. Iris Undermann enters the kitchen. She looks around. 
+	At 08:13 AM Patricia Undermann enters the kitchen. She looks around. Noor Placensio enters the bathroom. She looks around. Kevin Liszewksi stays in the bedroom. He looks around. 
+	At 08:30 AM Patricia Undermann stays in the kitchen. She looks around. Noor Placensio enters the basement. She looks around. Kevin Liszewksi enters the basement. He looks around. 
+	"I just want to be alone," said Noor. 
+	"I just want to be alone," said Kevin. 
+	At 08:42 AM Patricia Undermann enters the basement. She looks around. Noor Placensio enters the bedroom. She looks around. Kevin Liszewksi enters the bathroom. He looks around. 
+	At 08:58 AM Patricia Undermann stays in the basement. She looks around. Noor Placensio enters the bathroom. She looks around. Kevin Liszewksi enters the basement. He looks around. 
+	"Hello, Kevin," said Patricia. 
+	"I just want to be alone," said Kevin. 
+	At 09:14 AM Patricia Undermann stays in the basement. She looks around. Noor Placensio stays in the bathroom. She looks around. Kevin Liszewksi enters the bedroom. He looks around. 
+	At 09:33 AM Patricia Undermann stays in the basement. She looks around. Noor Placensio stays in the bathroom. She looks around. Kevin Liszewksi stays in the bedroom. He looks around. 
+	At 09:45 AM Patricia Undermann enters the living room. She looks around. Noor Placensio enters the living room. She looks around. Kevin Liszewksi enters the bathroom. He looks around. 
+	"Hello, Noor," said Patricia. 
+	"I just want to be alone," said Noor. 
+	At 10:04 AM Patricia Undermann enters the bathroom. She looks around. Noor Placensio stays in the living room. She looks around. Kevin Liszewksi enters the basement. He looks around. 
+	At 10:15 AM Patricia Undermann enters the kitchen. She looks around. Noor Placensio enters the bathroom. She looks around. Kevin Liszewksi stays in the basement. He looks around. 
+	At 10:34 AM Patricia Undermann stays in the kitchen. She looks around. Noor Placensio stays in the bathroom. She looks around. Kevin Liszewksi enters the kitchen. He looks around. 
+	"Hello, Kevin," said Patricia. 
+	"I just want to be alone," said Kevin. 
+	At 10:43 AM Patricia Undermann enters the bathroom. She looks around. Noor Placensio enters the kitchen. She looks around. Kevin Liszewksi enters the living room. He looks around. 
+	At 11:00 AM Patricia Undermann stays in the bathroom. She looks around. Noor Placensio stays in the kitchen. She looks around. Kevin Liszewksi enters the bedroom. He looks around. 
+	At 11:19 AM Patricia Undermann enters the basement. She looks around. Noor Placensio enters the bathroom. She looks around. Kevin Liszewksi stays in the bedroom. He looks around. 
+	At 11:27 AM Patricia Undermann enters the bedroom. She looks around. Noor Placensio stays in the bathroom. She looks around. Kevin Liszewksi stays in the bedroom. He looks around. 
+	"Hello, Kevin," said Patricia. 
+	"I just want to be alone," said Kevin. 
+	At 11:48 AM Patricia Undermann stays in the bedroom. She looks around. Noor Placensio enters the bedroom. She looks around. Kevin Liszewksi stays in the bedroom. He looks around. 
+	"Hello, Noor," said Patricia. 
+	"I just want to be alone," said Noor. 
+	"What about me?" said Kevin
+	At 12:00 PM Patricia Undermann enters the kitchen. She looks around. Noor Placensio stays in the bedroom. She looks around. Kevin Liszewksi stays in the bedroom. He looks around. 
+	"I just want to be alone," said Noor. 
+	"I just want to be alone," said Kevin. 
+	At 12:16 PM Patricia Undermann enters the bedroom. She looks around. Noor Placensio enters the bathroom. She looks around. Kevin Liszewksi stays in the bedroom. He looks around. 
+	"Hello, Kevin," said Patricia. 
+	"I just want to be alone," said Kevin. 
+	At 12:34 PM Patricia Undermann stays in the bedroom. She looks around. Noor Placensio stays in the bathroom. She looks around. Kevin Liszewksi enters the living room. He looks around. 
+	At 12:43 PM Patricia Undermann enters the kitchen. She looks around. Noor Placensio stays in the bathroom. She looks around. Kevin Liszewksi enters the bedroom. He looks around. 
+	At 12:59 PM Patricia Undermann stays in the kitchen. She looks around. Noor Placensio stays in the bathroom. She looks around. Kevin Liszewksi enters the kitchen. He looks around. 
+	"Hello, Kevin," said Patricia. 
+	"I just want to be alone," said Kevin. 
+	At 01:11 PM Patricia Undermann stays in the kitchen. She looks around. Noor Placensio stays in the bathroom. She looks around. Kevin Liszewksi stays in the kitchen. He looks around. 
+	"Hello, Kevin," said Patricia. 
+	"I just want to be alone," said Kevin. 
+	At 01:34 PM Patricia Undermann enters the basement. She looks around. Noor Placensio enters the bedroom. She looks around. Kevin Liszewksi stays in the kitchen. He looks around. 
+	At 01:40 PM Patricia Undermann enters the kitchen. She looks around. Noor Placensio stays in the bedroom. She looks around. Kevin Liszewksi stays in the kitchen. He looks around. 
+	"Hello, Kevin," said Patricia. 
+	"I just want to be alone," said Kevin. 
+	At 02:04 PM Patricia Undermann stays in the kitchen. She looks around. Noor Placensio stays in the bedroom. She looks around. Kevin Liszewksi enters the bedroom. He looks around. 
+	"I just want to be alone," said Noor. 
+	"I just want to be alone," said Kevin. 
+	At 02:16 PM Patricia Undermann enters the basement. She looks around. Noor Placensio enters the living room. She looks around. Kevin Liszewksi stays in the bedroom. He looks around. 
+	At 02:35 PM Patricia Undermann stays in the basement. She looks around. Noor Placensio stays in the living room. She looks around. Kevin Liszewksi stays in the bedroom. He looks around. 
+	At 02:44 PM Patricia Undermann enters the living room. She looks around. Noor Placensio enters the kitchen. She looks around. Kevin Liszewksi stays in the bedroom. He looks around. 
+	At 02:55 PM Patricia Undermann enters the basement. She looks around. Noor Placensio stays in the kitchen. She looks around. Kevin Liszewksi enters the bathroom. He looks around. 
+	At 03:13 PM Patricia Undermann enters the bathroom. She looks around. Noor Placensio stays in the kitchen. She looks around. Kevin Liszewksi enters the basement. He looks around. 
+	At 03:32 PM Patricia Undermann enters the kitchen. She looks around. Noor Placensio enters the basement. She looks around. Kevin Liszewksi enters the bathroom. He looks around. 
+	At 03:48 PM Patricia Undermann stays in the kitchen. She looks around. Noor Placensio enters the kitchen. She looks around. Kevin Liszewksi enters the living room. He looks around. 
+	"Hello, Noor," said Patricia. 
+	"I just want to be alone," said Noor. 
+	At 04:00 PM Patricia Undermann stays in the kitchen. She looks around. Noor Placensio enters the basement. She looks around. Kevin Liszewksi enters the kitchen. He looks around. 
+	"Hello, Kevin," said Patricia. 
+	"I just want to be alone," said Kevin. 
+	At 04:17 PM Patricia Undermann enters the bedroom. She looks around. Noor Placensio enters the bedroom. She looks around. Kevin Liszewksi enters the living room. He looks around. 
+	"Hello, Noor," said Patricia. 
+	"I just want to be alone," said Noor. 
+	At 04:27 PM Patricia Undermann stays in the bedroom. She looks around. Noor Placensio enters the living room. She looks around. Kevin Liszewksi enters the basement. He looks around. 
+	At 04:47 PM Patricia Undermann stays in the bedroom. She looks around. Noor Placensio enters the kitchen. She looks around. Kevin Liszewksi enters the kitchen. He looks around. 
+	"I just want to be alone," said Noor. 
+	"I just want to be alone," said Kevin. 
+	At 04:58 PM Patricia Undermann stays in the bedroom. She looks around. Noor Placensio enters the bedroom. She looks around. Kevin Liszewksi stays in the kitchen. He looks around. 
+	"Hello, Noor," said Patricia. 
+	"I just want to be alone," said Noor. 
+	At 05:10 PM Patricia Undermann enters the basement. She looks around. Noor Placensio enters the kitchen. She looks around. Kevin Liszewksi stays in the kitchen. He looks around. 
+	"I just want to be alone," said Noor. 
+	"I just want to be alone," said Kevin. 
+	At 05:33 PM Patricia Undermann enters the living room. She looks around. Noor Placensio enters the bathroom. She looks around. Kevin Liszewksi enters the living room. He looks around. 
+	"Hello, Kevin," said Patricia. 
+	"I just want to be alone," said Kevin. 
+	At 05:40 PM Patricia Undermann enters the bathroom. She looks around. Noor Placensio enters the living room. She looks around. Kevin Liszewksi stays in the living room. He looks around. 
+	"I just want to be alone," said Noor. 
+	"I just want to be alone," said Kevin. 
+	At 05:56 PM Patricia Undermann enters the bedroom. She looks around. Noor Placensio enters the kitchen. She looks around. Kevin Liszewksi stays in the living room. He looks around. 
+	At 06:12 PM Patricia Undermann enters the kitchen. She looks around. Noor Placensio stays in the kitchen. She looks around. Kevin Liszewksi enters the kitchen. He looks around. 
+	"Hello, Noor," said Patricia. 
+	"I just want to be alone," said Noor. 
+	"What about me?" said Kevin
+	At 06:35 PM Patricia Undermann enters the bedroom. She looks around. Noor Placensio enters the bathroom. She looks around. Kevin Liszewksi stays in the kitchen. He looks around. 
+	At 06:41 PM Patricia Undermann enters the basement. She looks around. Noor Placensio enters the basement. She looks around. Kevin Liszewksi stays in the kitchen. He looks around. 
+	"Hello, Noor," said Patricia. 
+	"I just want to be alone," said Noor. 
+	At 07:01 PM Patricia Undermann enters the living room. She looks around. Noor Placensio enters the bedroom. She looks around. Kevin Liszewksi enters the basement. He looks around. 
+	At 07:14 PM Patricia Undermann stays in the living room. She looks around. Noor Placensio stays in the bedroom. She looks around. Kevin Liszewksi enters the bathroom. He looks around. 
+	At 07:31 PM Patricia Undermann stays in the living room. She looks around. Noor Placensio enters the living room. She looks around. Kevin Liszewksi enters the kitchen. He looks around. 
+	"Hello, Noor," said Patricia. 
+	"I just want to be alone," said Noor. 
+	At 07:44 PM Patricia Undermann stays in the living room. She looks around. Noor Placensio stays in the living room. She looks around. Kevin Liszewksi stays in the kitchen. He looks around. 
+	"Hello, Noor," said Patricia. 
+	"I just want to be alone," said Noor. 
+	At 07:59 PM Patricia Undermann enters the bathroom. She looks around. Noor Placensio stays in the living room. She looks around. Kevin Liszewksi enters the bathroom. He looks around. 
+	"Hello, Kevin," said Patricia. 
+	"I just want to be alone," said Kevin. 
+	At 08:19 PM Patricia Undermann stays in the bathroom. She looks around. Noor Placensio enters the bathroom. She looks around. Kevin Liszewksi stays in the bathroom. He looks around. 
+	"Hello, Noor," said Patricia. 
+	"I just want to be alone," said Noor. 
+	"What about me?" said Kevin
+	At 08:32 PM Patricia Undermann enters the basement. She looks around. Noor Placensio enters the basement. She looks around. Kevin Liszewksi enters the basement. He looks around. 
+	"Hello, Noor," said Patricia. 
+	"I just want to be alone," said Noor. 
+	"What about me?" said Kevin
+	At 08:42 PM Patricia Undermann enters the bedroom. She looks around. Noor Placensio stays in the basement. She looks around. Kevin Liszewksi enters the bathroom. He looks around. 
+	At 09:02 PM Patricia Undermann enters the kitchen. She looks around. Noor Placensio stays in the basement. She looks around. Kevin Liszewksi enters the bedroom. He looks around. 
+	At 09:18 PM Patricia Undermann enters the bedroom. She looks around. Noor Placensio stays in the basement. She looks around. Kevin Liszewksi enters the living room. He looks around. 
+	At 09:25 PM Patricia Undermann enters the basement. She looks around. Noor Placensio stays in the basement. She looks around. Kevin Liszewksi stays in the living room. He looks around. 
+	"Hello, Noor," said Patricia. 
+	"I just want to be alone," said Noor. 
+	At 09:43 PM Patricia Undermann stays in the basement. She looks around. Noor Placensio stays in the basement. She looks around. Kevin Liszewksi enters the bedroom. He looks around. 
+	"Hello, Noor," said Patricia. 
+	"I just want to be alone," said Noor. 
+	At 10:00 PM Patricia Undermann enters the bathroom. She looks around. Noor Placensio stays in the basement. She looks around. Kevin Liszewksi enters the living room. He looks around. 
+	At 10:10 PM Patricia Undermann stays in the bathroom. She looks around. Noor Placensio stays in the basement. She looks around. Kevin Liszewksi stays in the living room. He looks around. 
+	At 10:25 PM Patricia Undermann enters the kitchen. She looks around. Noor Placensio enters the living room. She looks around. Kevin Liszewksi enters the bathroom. He looks around. 
+	At 10:49 PM Patricia Undermann enters the bathroom. She looks around. Noor Placensio stays in the living room. She looks around. Kevin Liszewksi enters the living room. He looks around. 
+	"I just want to be alone," said Noor. 
+	"I just want to be alone," said Kevin. 
+	At 11:04 PM Patricia Undermann stays in the bathroom. She looks around. Noor Placensio enters the bathroom. She looks around. Kevin Liszewksi enters the bathroom. He looks around. 
+	"Hello, Noor," said Patricia. 
+	"I just want to be alone," said Noor. 
+	"What about me?" said Kevin
+	At 11:16 PM Patricia Undermann enters the basement. She looks around. Noor Placensio stays in the bathroom. She looks around. Kevin Liszewksi enters the kitchen. He looks around. 
+	At 11:28 PM Patricia Undermann enters the kitchen. She looks around. Noor Placensio stays in the bathroom. She looks around. Kevin Liszewksi stays in the kitchen. He looks around. 
+	"Hello, Kevin," said Patricia. 
+	"I just want to be alone," said Kevin. 
+	At 11:41 PM Patricia Undermann enters the basement. She looks around. Noor Placensio enters the living room. She looks around. Kevin Liszewksi enters the basement. He looks around. 
+	"Hello, Kevin," said Patricia. 
+	"I just want to be alone," said Kevin. 
+	At 11:58 PM Patricia Undermann stays in the basement. She looks around. Noor Placensio stays in the living room. She looks around. Kevin Liszewksi stays in the basement. He looks around. 
+	"Hello, Kevin," said Patricia. 
+	"I just want to be alone," said Kevin. 

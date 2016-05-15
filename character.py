@@ -10,7 +10,7 @@ FIRST_NAMES = {
     'Katie', 'Lucinda', 'Mary', 'Noor', 'Olive', 'Patricia', 'Tatyana', 'Ursula']
         }
 LAST_NAMES = ['Alvarez', 'Burton', 'Dutton', 'Fortunado', 'Ives', 'Jenkins',
-    'Kolchek', 'Liszewksi', 'Ng', 'Placensio', 'Quint', 'Undermann', 'Zyk']
+    'Kolchek', 'Liszewski', 'Ng', 'Placensio', 'Quint', 'Undermann', 'Zyk']
     
 PRONOUNS = {'M': 'he', 'F': 'she'}
     
@@ -72,7 +72,14 @@ class Character():
         return PRONOUNS[self.sex].capitalize() + ' looks around. ' # dummy action for now
     
     def speak(self, other):
-        return '\n\t"Hello, ' + other.first_name + '," said ' + self.first_name + '. '
+        if self == other:
+            return '\n\t"What about me?" said ' + self.first_name
+        else:
+            if self.interpersonal + self.happiness > 6:
+                return '\n\t"Hello, ' + other.first_name + '," said ' + self.first_name + '. '
+            else:
+                return '\n\t"I just want to be alone," said ' + self.first_name + '. '
+                
         
         
    

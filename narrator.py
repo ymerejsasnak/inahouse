@@ -40,11 +40,13 @@ class Narrator():
             self.story += character.act()
         # and make sure setting object knows where characters are now
         self.setting.update_occupants(self.characters)
-        # if characters are in the same room, trigger dialogue:  (so far this ignores 3rd character)
+        # if characters are in the same room, trigger dialogue:
         for characters in self.setting.occupants.values():
             if len(characters) > 1:
                 self.story += characters[0].speak(characters[1])
                 self.story += characters[1].speak(characters[0])
+            if len(characters) > 2:
+                self.story += characters[2].speak(characters[2])  #3rd character ignored by other 2 (temporarily?)
     
     
 
