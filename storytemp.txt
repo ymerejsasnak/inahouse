@@ -1,138 +1,143 @@
 
-	At 08:13 AM Patricia Undermann enters the kitchen. She looks around. Noor Placensio enters the bathroom. She looks around. Kevin Liszewksi stays in the bedroom. He looks around. 
-	At 08:30 AM Patricia Undermann stays in the kitchen. She looks around. Noor Placensio enters the basement. She looks around. Kevin Liszewksi enters the basement. He looks around. 
-	"I just want to be alone," said Noor. 
-	"I just want to be alone," said Kevin. 
-	At 08:42 AM Patricia Undermann enters the basement. She looks around. Noor Placensio enters the bedroom. She looks around. Kevin Liszewksi enters the bathroom. He looks around. 
-	At 08:58 AM Patricia Undermann stays in the basement. She looks around. Noor Placensio enters the bathroom. She looks around. Kevin Liszewksi enters the basement. He looks around. 
-	"Hello, Kevin," said Patricia. 
-	"I just want to be alone," said Kevin. 
-	At 09:14 AM Patricia Undermann stays in the basement. She looks around. Noor Placensio stays in the bathroom. She looks around. Kevin Liszewksi enters the bedroom. He looks around. 
-	At 09:33 AM Patricia Undermann stays in the basement. She looks around. Noor Placensio stays in the bathroom. She looks around. Kevin Liszewksi stays in the bedroom. He looks around. 
-	At 09:45 AM Patricia Undermann enters the living room. She looks around. Noor Placensio enters the living room. She looks around. Kevin Liszewksi enters the bathroom. He looks around. 
-	"Hello, Noor," said Patricia. 
-	"I just want to be alone," said Noor. 
-	At 10:04 AM Patricia Undermann enters the bathroom. She looks around. Noor Placensio stays in the living room. She looks around. Kevin Liszewksi enters the basement. He looks around. 
-	At 10:15 AM Patricia Undermann enters the kitchen. She looks around. Noor Placensio enters the bathroom. She looks around. Kevin Liszewksi stays in the basement. He looks around. 
-	At 10:34 AM Patricia Undermann stays in the kitchen. She looks around. Noor Placensio stays in the bathroom. She looks around. Kevin Liszewksi enters the kitchen. He looks around. 
-	"Hello, Kevin," said Patricia. 
-	"I just want to be alone," said Kevin. 
-	At 10:43 AM Patricia Undermann enters the bathroom. She looks around. Noor Placensio enters the kitchen. She looks around. Kevin Liszewksi enters the living room. He looks around. 
-	At 11:00 AM Patricia Undermann stays in the bathroom. She looks around. Noor Placensio stays in the kitchen. She looks around. Kevin Liszewksi enters the bedroom. He looks around. 
-	At 11:19 AM Patricia Undermann enters the basement. She looks around. Noor Placensio enters the bathroom. She looks around. Kevin Liszewksi stays in the bedroom. He looks around. 
-	At 11:27 AM Patricia Undermann enters the bedroom. She looks around. Noor Placensio stays in the bathroom. She looks around. Kevin Liszewksi stays in the bedroom. He looks around. 
-	"Hello, Kevin," said Patricia. 
-	"I just want to be alone," said Kevin. 
-	At 11:48 AM Patricia Undermann stays in the bedroom. She looks around. Noor Placensio enters the bedroom. She looks around. Kevin Liszewksi stays in the bedroom. He looks around. 
-	"Hello, Noor," said Patricia. 
-	"I just want to be alone," said Noor. 
-	"What about me?" said Kevin
-	At 12:00 PM Patricia Undermann enters the kitchen. She looks around. Noor Placensio stays in the bedroom. She looks around. Kevin Liszewksi stays in the bedroom. He looks around. 
-	"I just want to be alone," said Noor. 
-	"I just want to be alone," said Kevin. 
-	At 12:16 PM Patricia Undermann enters the bedroom. She looks around. Noor Placensio enters the bathroom. She looks around. Kevin Liszewksi stays in the bedroom. He looks around. 
-	"Hello, Kevin," said Patricia. 
-	"I just want to be alone," said Kevin. 
-	At 12:34 PM Patricia Undermann stays in the bedroom. She looks around. Noor Placensio stays in the bathroom. She looks around. Kevin Liszewksi enters the living room. He looks around. 
-	At 12:43 PM Patricia Undermann enters the kitchen. She looks around. Noor Placensio stays in the bathroom. She looks around. Kevin Liszewksi enters the bedroom. He looks around. 
-	At 12:59 PM Patricia Undermann stays in the kitchen. She looks around. Noor Placensio stays in the bathroom. She looks around. Kevin Liszewksi enters the kitchen. He looks around. 
-	"Hello, Kevin," said Patricia. 
-	"I just want to be alone," said Kevin. 
-	At 01:11 PM Patricia Undermann stays in the kitchen. She looks around. Noor Placensio stays in the bathroom. She looks around. Kevin Liszewksi stays in the kitchen. He looks around. 
-	"Hello, Kevin," said Patricia. 
-	"I just want to be alone," said Kevin. 
-	At 01:34 PM Patricia Undermann enters the basement. She looks around. Noor Placensio enters the bedroom. She looks around. Kevin Liszewksi stays in the kitchen. He looks around. 
-	At 01:40 PM Patricia Undermann enters the kitchen. She looks around. Noor Placensio stays in the bedroom. She looks around. Kevin Liszewksi stays in the kitchen. He looks around. 
-	"Hello, Kevin," said Patricia. 
-	"I just want to be alone," said Kevin. 
-	At 02:04 PM Patricia Undermann stays in the kitchen. She looks around. Noor Placensio stays in the bedroom. She looks around. Kevin Liszewksi enters the bedroom. He looks around. 
-	"I just want to be alone," said Noor. 
-	"I just want to be alone," said Kevin. 
-	At 02:16 PM Patricia Undermann enters the basement. She looks around. Noor Placensio enters the living room. She looks around. Kevin Liszewksi stays in the bedroom. He looks around. 
-	At 02:35 PM Patricia Undermann stays in the basement. She looks around. Noor Placensio stays in the living room. She looks around. Kevin Liszewksi stays in the bedroom. He looks around. 
-	At 02:44 PM Patricia Undermann enters the living room. She looks around. Noor Placensio enters the kitchen. She looks around. Kevin Liszewksi stays in the bedroom. He looks around. 
-	At 02:55 PM Patricia Undermann enters the basement. She looks around. Noor Placensio stays in the kitchen. She looks around. Kevin Liszewksi enters the bathroom. He looks around. 
-	At 03:13 PM Patricia Undermann enters the bathroom. She looks around. Noor Placensio stays in the kitchen. She looks around. Kevin Liszewksi enters the basement. He looks around. 
-	At 03:32 PM Patricia Undermann enters the kitchen. She looks around. Noor Placensio enters the basement. She looks around. Kevin Liszewksi enters the bathroom. He looks around. 
-	At 03:48 PM Patricia Undermann stays in the kitchen. She looks around. Noor Placensio enters the kitchen. She looks around. Kevin Liszewksi enters the living room. He looks around. 
-	"Hello, Noor," said Patricia. 
-	"I just want to be alone," said Noor. 
-	At 04:00 PM Patricia Undermann stays in the kitchen. She looks around. Noor Placensio enters the basement. She looks around. Kevin Liszewksi enters the kitchen. He looks around. 
-	"Hello, Kevin," said Patricia. 
-	"I just want to be alone," said Kevin. 
-	At 04:17 PM Patricia Undermann enters the bedroom. She looks around. Noor Placensio enters the bedroom. She looks around. Kevin Liszewksi enters the living room. He looks around. 
-	"Hello, Noor," said Patricia. 
-	"I just want to be alone," said Noor. 
-	At 04:27 PM Patricia Undermann stays in the bedroom. She looks around. Noor Placensio enters the living room. She looks around. Kevin Liszewksi enters the basement. He looks around. 
-	At 04:47 PM Patricia Undermann stays in the bedroom. She looks around. Noor Placensio enters the kitchen. She looks around. Kevin Liszewksi enters the kitchen. He looks around. 
-	"I just want to be alone," said Noor. 
-	"I just want to be alone," said Kevin. 
-	At 04:58 PM Patricia Undermann stays in the bedroom. She looks around. Noor Placensio enters the bedroom. She looks around. Kevin Liszewksi stays in the kitchen. He looks around. 
-	"Hello, Noor," said Patricia. 
-	"I just want to be alone," said Noor. 
-	At 05:10 PM Patricia Undermann enters the basement. She looks around. Noor Placensio enters the kitchen. She looks around. Kevin Liszewksi stays in the kitchen. He looks around. 
-	"I just want to be alone," said Noor. 
-	"I just want to be alone," said Kevin. 
-	At 05:33 PM Patricia Undermann enters the living room. She looks around. Noor Placensio enters the bathroom. She looks around. Kevin Liszewksi enters the living room. He looks around. 
-	"Hello, Kevin," said Patricia. 
-	"I just want to be alone," said Kevin. 
-	At 05:40 PM Patricia Undermann enters the bathroom. She looks around. Noor Placensio enters the living room. She looks around. Kevin Liszewksi stays in the living room. He looks around. 
-	"I just want to be alone," said Noor. 
-	"I just want to be alone," said Kevin. 
-	At 05:56 PM Patricia Undermann enters the bedroom. She looks around. Noor Placensio enters the kitchen. She looks around. Kevin Liszewksi stays in the living room. He looks around. 
-	At 06:12 PM Patricia Undermann enters the kitchen. She looks around. Noor Placensio stays in the kitchen. She looks around. Kevin Liszewksi enters the kitchen. He looks around. 
-	"Hello, Noor," said Patricia. 
-	"I just want to be alone," said Noor. 
-	"What about me?" said Kevin
-	At 06:35 PM Patricia Undermann enters the bedroom. She looks around. Noor Placensio enters the bathroom. She looks around. Kevin Liszewksi stays in the kitchen. He looks around. 
-	At 06:41 PM Patricia Undermann enters the basement. She looks around. Noor Placensio enters the basement. She looks around. Kevin Liszewksi stays in the kitchen. He looks around. 
-	"Hello, Noor," said Patricia. 
-	"I just want to be alone," said Noor. 
-	At 07:01 PM Patricia Undermann enters the living room. She looks around. Noor Placensio enters the bedroom. She looks around. Kevin Liszewksi enters the basement. He looks around. 
-	At 07:14 PM Patricia Undermann stays in the living room. She looks around. Noor Placensio stays in the bedroom. She looks around. Kevin Liszewksi enters the bathroom. He looks around. 
-	At 07:31 PM Patricia Undermann stays in the living room. She looks around. Noor Placensio enters the living room. She looks around. Kevin Liszewksi enters the kitchen. He looks around. 
-	"Hello, Noor," said Patricia. 
-	"I just want to be alone," said Noor. 
-	At 07:44 PM Patricia Undermann stays in the living room. She looks around. Noor Placensio stays in the living room. She looks around. Kevin Liszewksi stays in the kitchen. He looks around. 
-	"Hello, Noor," said Patricia. 
-	"I just want to be alone," said Noor. 
-	At 07:59 PM Patricia Undermann enters the bathroom. She looks around. Noor Placensio stays in the living room. She looks around. Kevin Liszewksi enters the bathroom. He looks around. 
-	"Hello, Kevin," said Patricia. 
-	"I just want to be alone," said Kevin. 
-	At 08:19 PM Patricia Undermann stays in the bathroom. She looks around. Noor Placensio enters the bathroom. She looks around. Kevin Liszewksi stays in the bathroom. He looks around. 
-	"Hello, Noor," said Patricia. 
-	"I just want to be alone," said Noor. 
-	"What about me?" said Kevin
-	At 08:32 PM Patricia Undermann enters the basement. She looks around. Noor Placensio enters the basement. She looks around. Kevin Liszewksi enters the basement. He looks around. 
-	"Hello, Noor," said Patricia. 
-	"I just want to be alone," said Noor. 
-	"What about me?" said Kevin
-	At 08:42 PM Patricia Undermann enters the bedroom. She looks around. Noor Placensio stays in the basement. She looks around. Kevin Liszewksi enters the bathroom. He looks around. 
-	At 09:02 PM Patricia Undermann enters the kitchen. She looks around. Noor Placensio stays in the basement. She looks around. Kevin Liszewksi enters the bedroom. He looks around. 
-	At 09:18 PM Patricia Undermann enters the bedroom. She looks around. Noor Placensio stays in the basement. She looks around. Kevin Liszewksi enters the living room. He looks around. 
-	At 09:25 PM Patricia Undermann enters the basement. She looks around. Noor Placensio stays in the basement. She looks around. Kevin Liszewksi stays in the living room. He looks around. 
-	"Hello, Noor," said Patricia. 
-	"I just want to be alone," said Noor. 
-	At 09:43 PM Patricia Undermann stays in the basement. She looks around. Noor Placensio stays in the basement. She looks around. Kevin Liszewksi enters the bedroom. He looks around. 
-	"Hello, Noor," said Patricia. 
-	"I just want to be alone," said Noor. 
-	At 10:00 PM Patricia Undermann enters the bathroom. She looks around. Noor Placensio stays in the basement. She looks around. Kevin Liszewksi enters the living room. He looks around. 
-	At 10:10 PM Patricia Undermann stays in the bathroom. She looks around. Noor Placensio stays in the basement. She looks around. Kevin Liszewksi stays in the living room. He looks around. 
-	At 10:25 PM Patricia Undermann enters the kitchen. She looks around. Noor Placensio enters the living room. She looks around. Kevin Liszewksi enters the bathroom. He looks around. 
-	At 10:49 PM Patricia Undermann enters the bathroom. She looks around. Noor Placensio stays in the living room. She looks around. Kevin Liszewksi enters the living room. He looks around. 
-	"I just want to be alone," said Noor. 
-	"I just want to be alone," said Kevin. 
-	At 11:04 PM Patricia Undermann stays in the bathroom. She looks around. Noor Placensio enters the bathroom. She looks around. Kevin Liszewksi enters the bathroom. He looks around. 
-	"Hello, Noor," said Patricia. 
-	"I just want to be alone," said Noor. 
-	"What about me?" said Kevin
-	At 11:16 PM Patricia Undermann enters the basement. She looks around. Noor Placensio stays in the bathroom. She looks around. Kevin Liszewksi enters the kitchen. He looks around. 
-	At 11:28 PM Patricia Undermann enters the kitchen. She looks around. Noor Placensio stays in the bathroom. She looks around. Kevin Liszewksi stays in the kitchen. He looks around. 
-	"Hello, Kevin," said Patricia. 
-	"I just want to be alone," said Kevin. 
-	At 11:41 PM Patricia Undermann enters the basement. She looks around. Noor Placensio enters the living room. She looks around. Kevin Liszewksi enters the basement. He looks around. 
-	"Hello, Kevin," said Patricia. 
-	"I just want to be alone," said Kevin. 
-	At 11:58 PM Patricia Undermann stays in the basement. She looks around. Noor Placensio stays in the living room. She looks around. Kevin Liszewksi stays in the basement. He looks around. 
-	"Hello, Kevin," said Patricia. 
-	"I just want to be alone," said Kevin. 
+	At 08:16 AM Olive Quint stays in the bedroom. She looks around. Lucinda Burton stays in the bedroom. She looks around. Eric Kolchek enters the basement. He looks around. 
+	"I just want to be alone," said Olive. 
+	"Me too," said Lucinda. 
+	At 08:32 AM Olive Quint stays in the bedroom. She looks around. Lucinda Burton stays in the bedroom. She looks around. Eric Kolchek enters the bathroom. He looks around. 
+	"I just want to be alone," said Olive. 
+	"Me too," said Lucinda. 
+	At 08:46 AM Olive Quint stays in the bedroom. She looks around. Lucinda Burton enters the kitchen. She looks around. Eric Kolchek stays in the bathroom. He looks around. 
+	At 08:55 AM Olive Quint stays in the bedroom. She looks around. Lucinda Burton enters the bedroom. She looks around. Eric Kolchek stays in the bathroom. He looks around. 
+	"I just want to be alone," said Olive. 
+	"Me too," said Lucinda. 
+	At 09:10 AM Olive Quint enters the bathroom. She looks around. Lucinda Burton enters the basement. She looks around. Eric Kolchek stays in the bathroom. He looks around. 
+	"I just want to be alone," said Olive. 
+	"Hello, Olive," said Eric. 
+	At 09:31 AM Olive Quint stays in the bathroom. She looks around. Lucinda Burton stays in the basement. She looks around. Eric Kolchek stays in the bathroom. He looks around. 
+	"I just want to be alone," said Olive. 
+	"Hello, Olive," said Eric. 
+	At 09:41 AM Olive Quint enters the bedroom. She looks around. Lucinda Burton stays in the basement. She looks around. Eric Kolchek enters the living room. He looks around. 
+	At 10:00 AM Olive Quint enters the living room. She looks around. Lucinda Burton stays in the basement. She looks around. Eric Kolchek stays in the living room. He looks around. 
+	"I just want to be alone," said Olive. 
+	"Hello, Olive," said Eric. 
+	At 10:11 AM Olive Quint enters the bedroom. She looks around. Lucinda Burton enters the living room. She looks around. Eric Kolchek enters the basement. He looks around. 
+	At 10:31 AM Olive Quint enters the bathroom. She looks around. Lucinda Burton enters the bathroom. She looks around. Eric Kolchek enters the kitchen. He looks around. 
+	"I just want to be alone," said Olive. 
+	"Me too," said Lucinda. 
+	At 10:45 AM Olive Quint enters the living room. She looks around. Lucinda Burton stays in the bathroom. She looks around. Eric Kolchek enters the bedroom. He looks around. 
+	At 11:05 AM Olive Quint stays in the living room. She looks around. Lucinda Burton enters the kitchen. She looks around. Eric Kolchek stays in the bedroom. He looks around. 
+	At 11:15 AM Olive Quint enters the bedroom. She looks around. Lucinda Burton stays in the kitchen. She looks around. Eric Kolchek enters the bathroom. He looks around. 
+	At 11:35 AM Olive Quint enters the living room. She looks around. Lucinda Burton enters the basement. She looks around. Eric Kolchek enters the basement. He looks around. 
+	"I just want to be alone," said Lucinda. 
+	"Hello, Lucinda," said Eric. 
+	At 11:41 AM Olive Quint stays in the living room. She looks around. Lucinda Burton stays in the basement. She looks around. Eric Kolchek stays in the basement. He looks around. 
+	"I just want to be alone," said Lucinda. 
+	"Hello, Lucinda," said Eric. 
+	At 12:05 PM Olive Quint enters the basement. She looks around. Lucinda Burton stays in the basement. She looks around. Eric Kolchek stays in the basement. He looks around. 
+	"I just want to be alone," said Olive. 
+	"Me too," said Lucinda. 
+	"What about me?" said Eric
+	At 12:10 PM Olive Quint stays in the basement. She looks around. Lucinda Burton enters the bathroom. She looks around. Eric Kolchek enters the bedroom. He looks around. 
+	At 12:25 PM Olive Quint stays in the basement. She looks around. Lucinda Burton stays in the bathroom. She looks around. Eric Kolchek enters the kitchen. He looks around. 
+	At 12:40 PM Olive Quint stays in the basement. She looks around. Lucinda Burton enters the kitchen. She looks around. Eric Kolchek enters the bathroom. He looks around. 
+	At 12:59 PM Olive Quint stays in the basement. She looks around. Lucinda Burton stays in the kitchen. She looks around. Eric Kolchek stays in the bathroom. He looks around. 
+	At 01:11 PM Olive Quint stays in the basement. She looks around. Lucinda Burton stays in the kitchen. She looks around. Eric Kolchek enters the bedroom. He looks around. 
+	At 01:30 PM Olive Quint enters the living room. She looks around. Lucinda Burton enters the living room. She looks around. Eric Kolchek enters the bathroom. He looks around. 
+	"I just want to be alone," said Olive. 
+	"Me too," said Lucinda. 
+	At 01:40 PM Olive Quint enters the kitchen. She looks around. Lucinda Burton stays in the living room. She looks around. Eric Kolchek enters the bedroom. He looks around. 
+	At 01:58 PM Olive Quint enters the basement. She looks around. Lucinda Burton enters the basement. She looks around. Eric Kolchek stays in the bedroom. He looks around. 
+	"I just want to be alone," said Olive. 
+	"Me too," said Lucinda. 
+	At 02:15 PM Olive Quint enters the kitchen. She looks around. Lucinda Burton stays in the basement. She looks around. Eric Kolchek enters the bathroom. He looks around. 
+	At 02:29 PM Olive Quint enters the bedroom. She looks around. Lucinda Burton enters the bedroom. She looks around. Eric Kolchek enters the bedroom. He looks around. 
+	"I just want to be alone," said Olive. 
+	"Me too," said Lucinda. 
+	"What about me?" said Eric
+	At 02:45 PM Olive Quint enters the bathroom. She looks around. Lucinda Burton stays in the bedroom. She looks around. Eric Kolchek enters the living room. He looks around. 
+	At 02:56 PM Olive Quint enters the basement. She looks around. Lucinda Burton stays in the bedroom. She looks around. Eric Kolchek enters the bedroom. He looks around. 
+	"I just want to be alone," said Lucinda. 
+	"Hello, Lucinda," said Eric. 
+	At 03:15 PM Olive Quint stays in the basement. She looks around. Lucinda Burton stays in the bedroom. She looks around. Eric Kolchek enters the living room. He looks around. 
+	At 03:32 PM Olive Quint stays in the basement. She looks around. Lucinda Burton enters the kitchen. She looks around. Eric Kolchek enters the bathroom. He looks around. 
+	At 03:42 PM Olive Quint stays in the basement. She looks around. Lucinda Burton enters the bedroom. She looks around. Eric Kolchek enters the basement. He looks around. 
+	"I just want to be alone," said Olive. 
+	"Hello, Olive," said Eric. 
+	At 03:56 PM Olive Quint stays in the basement. She looks around. Lucinda Burton enters the bathroom. She looks around. Eric Kolchek enters the bathroom. He looks around. 
+	"I just want to be alone," said Lucinda. 
+	"Hello, Lucinda," said Eric. 
+	At 04:10 PM Olive Quint enters the kitchen. She looks around. Lucinda Burton enters the living room. She looks around. Eric Kolchek stays in the bathroom. He looks around. 
+	At 04:31 PM Olive Quint stays in the kitchen. She looks around. Lucinda Burton stays in the living room. She looks around. Eric Kolchek enters the living room. He looks around. 
+	"I just want to be alone," said Lucinda. 
+	"Hello, Lucinda," said Eric. 
+	At 04:50 PM Olive Quint stays in the kitchen. She looks around. Lucinda Burton stays in the living room. She looks around. Eric Kolchek enters the bedroom. He looks around. 
+	At 05:02 PM Olive Quint stays in the kitchen. She looks around. Lucinda Burton stays in the living room. She looks around. Eric Kolchek enters the kitchen. He looks around. 
+	"I just want to be alone," said Olive. 
+	"Hello, Olive," said Eric. 
+	At 05:19 PM Olive Quint enters the living room. She looks around. Lucinda Burton enters the kitchen. She looks around. Eric Kolchek enters the living room. He looks around. 
+	"I just want to be alone," said Olive. 
+	"Hello, Olive," said Eric. 
+	At 05:29 PM Olive Quint enters the kitchen. She looks around. Lucinda Burton enters the bathroom. She looks around. Eric Kolchek enters the basement. He looks around. 
+	At 05:42 PM Olive Quint stays in the kitchen. She looks around. Lucinda Burton stays in the bathroom. She looks around. Eric Kolchek enters the bedroom. He looks around. 
+	At 06:05 PM Olive Quint enters the living room. She looks around. Lucinda Burton enters the kitchen. She looks around. Eric Kolchek stays in the bedroom. He looks around. 
+	At 06:18 PM Olive Quint enters the bedroom. She looks around. Lucinda Burton enters the bedroom. She looks around. Eric Kolchek stays in the bedroom. He looks around. 
+	"I just want to be alone," said Olive. 
+	"Me too," said Lucinda. 
+	"What about me?" said Eric
+	At 06:28 PM Olive Quint enters the kitchen. She looks around. Lucinda Burton stays in the bedroom. She looks around. Eric Kolchek enters the bathroom. He looks around. 
+	At 06:44 PM Olive Quint enters the basement. She looks around. Lucinda Burton stays in the bedroom. She looks around. Eric Kolchek enters the bedroom. He looks around. 
+	"I just want to be alone," said Lucinda. 
+	"Hello, Lucinda," said Eric. 
+	At 07:03 PM Olive Quint enters the bathroom. She looks around. Lucinda Burton enters the basement. She looks around. Eric Kolchek stays in the bedroom. He looks around. 
+	At 07:10 PM Olive Quint stays in the bathroom. She looks around. Lucinda Burton enters the bathroom. She looks around. Eric Kolchek stays in the bedroom. He looks around. 
+	"I just want to be alone," said Olive. 
+	"Me too," said Lucinda. 
+	At 07:30 PM Olive Quint stays in the bathroom. She looks around. Lucinda Burton stays in the bathroom. She looks around. Eric Kolchek enters the bathroom. He looks around. 
+	"I just want to be alone," said Olive. 
+	"Me too," said Lucinda. 
+	"What about me?" said Eric
+	At 07:42 PM Olive Quint stays in the bathroom. She looks around. Lucinda Burton stays in the bathroom. She looks around. Eric Kolchek stays in the bathroom. He looks around. 
+	"I just want to be alone," said Olive. 
+	"Me too," said Lucinda. 
+	"What about me?" said Eric
+	At 07:59 PM Olive Quint stays in the bathroom. She looks around. Lucinda Burton stays in the bathroom. She looks around. Eric Kolchek stays in the bathroom. He looks around. 
+	"I just want to be alone," said Olive. 
+	"Me too," said Lucinda. 
+	"What about me?" said Eric
+	At 08:11 PM Olive Quint stays in the bathroom. She looks around. Lucinda Burton stays in the bathroom. She looks around. Eric Kolchek stays in the bathroom. He looks around. 
+	"I just want to be alone," said Olive. 
+	"Me too," said Lucinda. 
+	"What about me?" said Eric
+	At 08:32 PM Olive Quint enters the basement. She looks around. Lucinda Burton enters the basement. She looks around. Eric Kolchek stays in the bathroom. He looks around. 
+	"I just want to be alone," said Olive. 
+	"Me too," said Lucinda. 
+	At 08:40 PM Olive Quint stays in the basement. She looks around. Lucinda Burton stays in the basement. She looks around. Eric Kolchek enters the kitchen. He looks around. 
+	"I just want to be alone," said Olive. 
+	"Me too," said Lucinda. 
+	At 09:03 PM Olive Quint stays in the basement. She looks around. Lucinda Burton stays in the basement. She looks around. Eric Kolchek enters the basement. He looks around. 
+	"I just want to be alone," said Olive. 
+	"Me too," said Lucinda. 
+	"What about me?" said Eric
+	At 09:18 PM Olive Quint enters the living room. She looks around. Lucinda Burton stays in the basement. She looks around. Eric Kolchek stays in the basement. He looks around. 
+	"I just want to be alone," said Lucinda. 
+	"Hello, Lucinda," said Eric. 
+	At 09:27 PM Olive Quint enters the kitchen. She looks around. Lucinda Burton enters the living room. She looks around. Eric Kolchek enters the living room. He looks around. 
+	"I just want to be alone," said Lucinda. 
+	"Hello, Lucinda," said Eric. 
+	At 09:46 PM Olive Quint stays in the kitchen. She looks around. Lucinda Burton stays in the living room. She looks around. Eric Kolchek enters the bathroom. He looks around. 
+	At 10:04 PM Olive Quint enters the bathroom. She looks around. Lucinda Burton stays in the living room. She looks around. Eric Kolchek stays in the bathroom. He looks around. 
+	"I just want to be alone," said Olive. 
+	"Hello, Olive," said Eric. 
+	At 10:13 PM Olive Quint enters the living room. She looks around. Lucinda Burton enters the bedroom. She looks around. Eric Kolchek enters the bedroom. He looks around. 
+	"I just want to be alone," said Lucinda. 
+	"Hello, Lucinda," said Eric. 
+	At 10:25 PM Olive Quint stays in the living room. She looks around. Lucinda Burton stays in the bedroom. She looks around. Eric Kolchek enters the basement. He looks around. 
+	At 10:40 PM Olive Quint enters the bedroom. She looks around. Lucinda Burton stays in the bedroom. She looks around. Eric Kolchek enters the living room. He looks around. 
+	"I just want to be alone," said Olive. 
+	"Me too," said Lucinda. 
+	At 10:59 PM Olive Quint enters the bathroom. She looks around. Lucinda Burton enters the living room. She looks around. Eric Kolchek stays in the living room. He looks around. 
+	"I just want to be alone," said Lucinda. 
+	"Hello, Lucinda," said Eric. 
+	At 11:12 PM Olive Quint stays in the bathroom. She looks around. Lucinda Burton stays in the living room. She looks around. Eric Kolchek enters the kitchen. He looks around. 
+	At 11:25 PM Olive Quint stays in the bathroom. She looks around. Lucinda Burton enters the basement. She looks around. Eric Kolchek stays in the kitchen. He looks around. 
+	At 11:47 PM Olive Quint stays in the bathroom. She looks around. Lucinda Burton enters the bedroom. She looks around. Eric Kolchek stays in the kitchen. He looks around. 
+	At 12:02 AM Olive Quint enters the basement. She looks around. Lucinda Burton enters the living room. She looks around. Eric Kolchek stays in the kitchen. He looks around. 

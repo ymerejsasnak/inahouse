@@ -43,8 +43,8 @@ class Narrator():
         # if characters are in the same room, trigger dialogue:
         for characters in self.setting.occupants.values():
             if len(characters) > 1:
-                self.story += characters[0].speak(characters[1])
-                self.story += characters[1].speak(characters[0])
+                self.story += characters[0].speak(characters[1], line=1)
+                self.story += characters[1].speak(characters[0], line=2)
             if len(characters) > 2:
                 self.story += characters[2].speak(characters[2])  #3rd character ignored by other 2 (temporarily?)
     
