@@ -1,5 +1,10 @@
 import random as r
+import datetime
 import setting, character, item
+
+
+INTERVALS_PER_SCENE = 16 * 4  # 16 hours split into 15 minute segments
+
 
 class Narrator():
     '''Main controller object that creates other objects (setting, character, item 
@@ -15,6 +20,7 @@ class Narrator():
     def __init__(self):
         self.setting = setting.Setting()
         self.characters = [character.Character() for i in range(3)]
+        self.time = datetime.datetime(1, 1, 1, 8)  # start at 8am
         
         #list of objects
         #time (time of day) increment by 15 minutes each 'turn' but if used in story
@@ -22,16 +28,26 @@ class Narrator():
         #act - story progresses from act I to act III, which will hopefully
             #influence character actions (more interesting/intense things as acts go on)
     
+    def increment_time(self):
+        self.time += datetime.timedelta(minutes=15)
+        variation = r.randint(-5, 5) # just for variation to printed time
+        print('\n\tIt is now ' + str((self.time + datetime.timedelta(minutes=variation)).time()) + '. ', end='')
+        
     def movement(self):
         for character in self.characters:
             character.move()
         # and make sure setting object knows where characters are
-        self.setting.update_occupants(self.characters) 
+        self.setting.update_occupants(self.characters)
+    
+    def action(self):
+        pass
 
     
 
 
 # main program for now
 n = Narrator()
-for i in range(5):
+for i in range(INTERVALS_PER_SCENE):
+    n.increment_time()
     n.movement()
+

@@ -33,6 +33,7 @@ class Character():
         self.sex = r.choice(['M', 'F'])
         self.first_name = r.choice(FIRST_NAMES[self.sex])
         self.last_name = r.choice(LAST_NAMES)
+        self.full_name = self.first_name + ' ' + self.last_name
         self.age = r.randint(20, 50)
         
         # status flags
@@ -56,9 +57,16 @@ class Character():
         self.location = 'bedroom'
 
     def move(self):
-        # for now, random movements each turn
-        self.location = r.choice(ROOMS)
-        print(self.first_name + ' enters the ' + self.location + '.')
+        # go to new room
+        if 1 < r.randint(1, 2):
+            # make new list without current room, then pick one
+            other_rooms = list(ROOMS)
+            other_rooms.remove(self.location)
+            self.location = r.choice(other_rooms)
+            print(self.full_name + ' enters the ' + self.location + '. ', end='')
+        # or stay in current room
+        else:
+            print(self.full_name + ' stays in the ' + self.location + '. ', end='')
         
         
         
