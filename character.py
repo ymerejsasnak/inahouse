@@ -3,8 +3,6 @@ import random as r
 
 ROOMS = ['bathroom', 'kitchen', 'living room', 'bedroom', 'basement'] 
 
-
-# lists/dicts from which to choose options for character creation
 FIRST_NAMES = {
     'M': ['Alex', 'Burt', 'Calvin', 'Diego', 'Eric', 'Frank', 'George', 
     'Harold', 'Ivan', 'Kevin', 'Lawrence', 'Manuel', 'Oliver', 'Percy', 'Salvatore'],
@@ -72,14 +70,11 @@ class Character():
         
     def act(self):
         return PRONOUNS[self.sex].capitalize() + ' looks around. ' # dummy action for now
-        
-        
-# define an 'act' method that determines what the char will do on each 'turn'
-#(this will be called by narrator for each char)
-
     
-# !!!!  note:  can use .__dict__ to show/access all attributes/values given an object
+    def speak(self, other):
+        return '\n\t"Hello, ' + other.first_name + '," said ' + self.first_name + '. '
         
         
+   
     
     

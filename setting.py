@@ -20,5 +20,5 @@ class Setting():
         self.occupants = {key: [] for key in ROOMS}
         # then update with new ones
         for character in characters:
-            self.occupants[character.location] = character
+            self.occupants[character.location].append(character)
         

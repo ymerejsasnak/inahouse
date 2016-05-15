@@ -23,16 +23,14 @@ class Narrator():
         self.characters = [character.Character() for i in range(3)]
         self.time = datetime.datetime(1, 1, 1, 8)  # start at 8am
         
-        #list of objects
-        #time (time of day) increment by 15 minutes each 'turn' but if used in story
-            #write it as random time + or - 5 minutes of internal time for variation
+        #items
+        
         #act - story progresses from act I to act III, which will hopefully
             #influence character actions (more interesting/intense things as acts go on)
     
     def increment_time(self):
         self.time += datetime.timedelta(minutes=15)
         variation = r.randint(-5, 5) # just for variation to printed time
-        #self.story += '\n\tAt ' + str((self.time + datetime.timedelta(minutes=variation)).time()) + ' '
         self.story += '\n\tAt ' + (self.time + datetime.timedelta(minutes=variation)).strftime('%I:%M %p') + ' '
         
         
@@ -42,6 +40,11 @@ class Narrator():
             self.story += character.act()
         # and make sure setting object knows where characters are now
         self.setting.update_occupants(self.characters)
+        # if characters are in the same room, trigger dialogue:  (so far this ignores 3rd character)
+        for characters in self.setting.occupants.values():
+            if len(characters) > 1:
+                self.story += characters[0].speak(characters[1])
+                self.story += characters[1].speak(characters[0])
     
     
 
@@ -56,3 +59,6 @@ for i in range(INTERVALS_PER_SCENE):
     
 print(n.story)
 
+#also basic temp save
+with open('storytemp.txt', 'w') as story_file:
+    story_file.write(n.story)
