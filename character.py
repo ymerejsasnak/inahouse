@@ -13,6 +13,7 @@ LAST_NAMES = ['Alvarez', 'Burton', 'Dutton', 'Fortunado', 'Ives', 'Jenkins',
     'Kolchek', 'Liszewski', 'Ng', 'Placensio', 'Quint', 'Undermann', 'Zyk']
     
 PRONOUNS = {'M': 'he', 'F': 'she'}
+POSSESSIVE = {'M': 'his', 'F': 'her'}
 
     
 class Character():
@@ -73,7 +74,17 @@ class Character():
             return self.full_name + ' stays in the ' + self.location + '. '
         
     def act(self):
-        return PRONOUNS[self.sex].capitalize() + ' looks around. ' # dummy action for now
+        self_feeling = self.get_primary_feeling()
+        
+        if self_feeling == 'fine':
+            return r.choice([PRONOUNS[self.sex].capitalize() + ' looks around. ',
+                            PRONOUNS[self.sex].capitalize() + ' sits down. '])
+        elif self_feeling == 'anxious':
+            return r.choice([PRONOUNS[self.sex].capitalize() + ' paces the room. ',
+                            PRONOUNS[self.sex].capitalize() + ' begins to cry. '])
+        elif self_feeling == 'angry':
+            return r.choice([PRONOUNS[self.sex].capitalize() + ' punches the wall. ',
+                            PRONOUNS[self.sex].capitalize() + ' clenches ' + POSSESSIVE[self.sex] + ' fists. '])
     
     def speak(self, other, line=1):
         self_feeling = self.get_primary_feeling()

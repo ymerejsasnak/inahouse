@@ -31,9 +31,11 @@ actually SURPRISE me in joyful/absurd/creepy/funny/whatever ways
 
 TO DO NEXT!
 
--work on dialogue trees
+-work on dialogue trees (more random options at end of if branches)
+-start adding random(ish?) actions
+(and stat changes for both of above)
 
--code interactions between char stats and items
+-code interactions between char and items
 -implement actions (char alone, char + item, char + char)
 
 -implement scenes
