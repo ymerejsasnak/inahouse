@@ -77,14 +77,34 @@ class Character():
         self_feeling = self.get_primary_feeling()
         
         if self_feeling == 'fine':
-            return r.choice([PRONOUNS[self.sex].capitalize() + ' looks around. ',
-                            PRONOUNS[self.sex].capitalize() + ' sits down. '])
-        elif self_feeling == 'anxious':
-            return r.choice([PRONOUNS[self.sex].capitalize() + ' paces the room. ',
-                            PRONOUNS[self.sex].capitalize() + ' begins to cry. '])
+            if 1 == r.randint(1, 2):
+                self.anxiety = self.anxiety + 1
+                self.anger = self.anger + 1
+                return PRONOUNS[self.sex].capitalize() + ' looks around. '
+            else:
+                self.anger = self.anxiety + 1
+                return PRONOUNS[self.sex].capitalize() + ' stretches. '
+        elif self_feeling == 'anxious' and self.outlook == 'optimist':
+            if 1 == r.randint(1, 2):
+                self.anxiety = max(10, self.anxiety + 1)
+                return PRONOUNS[self.sex].capitalize() + ' paces the room. '
+            else:
+                self.anxiety = self.anxiety - 2
+                return PRONOUNS[self.sex].capitalize() + ' tries to breathe more slowly. '
+        elif self_feeling == 'anxious' and self.outlook == 'pessimist':
+            if 1 == r.randint(1, 2):
+                self.anxiety = max(10, self.anxiety + 1)
+                return PRONOUNS[self.sex].capitalize() + ' gnaws on ' + POSSESSIVE[self.sex] + ' fingernails. '
+            else:
+                self.anxiety = self.anxiety - 4
+                return PRONOUNS[self.sex].capitalize() + ' begins to cry. '            
         elif self_feeling == 'angry':
-            return r.choice([PRONOUNS[self.sex].capitalize() + ' punches the wall. ',
-                            PRONOUNS[self.sex].capitalize() + ' clenches ' + POSSESSIVE[self.sex] + ' fists. '])
+            if 1 == r.randint(1, 2):
+                self.anger = self.anger - 4
+                return PRONOUNS[self.sex].capitalize() + ' punches the wall. '
+            else:
+                self.anger = max(10, self.anger + 1)
+                return PRONOUNS[self.sex].capitalize() + ' clenches ' + POSSESSIVE[self.sex] + ' fists. '
     
     def speak(self, other, line=1):
         self_feeling = self.get_primary_feeling()
@@ -106,7 +126,7 @@ class Character():
                 if other.interpersonal == 'introvert' and self.interpersonal == 'introvert':
                     return '\n\t' + self.first_name + ' looked away.'
                 elif other.interpersonal == 'introvert':
-                    return '\n\t"' + other.first_name + ''', don't be so quiet," said ''' + self.first_name + '. '
+                    return '\n\t"' + other.first_name + ''', don't be so shy," said ''' + self.first_name + '. '
                 elif self_feeling == 'fine' or self.interpersonal == 'introvert':
                     return '''\n\t"I'm feeling fine, I guess," said ''' + self.first_name + '. '
                 else:
