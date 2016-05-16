@@ -80,10 +80,10 @@ class Character():
             if 1 == r.randint(1, 2):
                 self.anxiety = self.anxiety + 1
                 self.anger = self.anger + 1
-                return PRONOUNS[self.sex].capitalize() + ' looks around. '
+                return PRONOUNS[self.sex].capitalize() + ' stares at the wall. '
             else:
                 self.anger = self.anxiety + 1
-                return PRONOUNS[self.sex].capitalize() + ' stretches. '
+                return PRONOUNS[self.sex].capitalize() + ' hums quietly. '
         elif self_feeling == 'anxious' and self.outlook == 'optimist':
             if 1 == r.randint(1, 2):
                 self.anxiety = max(10, self.anxiety + 1)
@@ -112,8 +112,10 @@ class Character():
         
         # third character in a room is ignored (easier to code, but is interesting too)
         if self == other and self.interpersonal == 'extrovert':
+            self.anger = max(10, self.anger + 1)
             return '\n\t"Hello?  Why are you two ignoring me?" asked ' + self.first_name + '. '
         elif self == other and self.interpersonal == 'introvert':
+            self.anxiety = max(10, self.anxiety + 1)
             return '''\n\t"Fine, then don't talk to me," ''' + self.first_name + ' whispered. '
         
         else:
@@ -121,15 +123,21 @@ class Character():
                 if self.interpersonal == 'extrovert':
                     return '\n\t"How are you, ' + other.first_name + '?" asked ' + self.first_name + '. '
                 else:
+                    self.anxiety = max(10, self.anxiety + 1)
                     return '\n\t"Um, hi," said ' + self.first_name + '. '
             elif line == 2:
                 if other.interpersonal == 'introvert' and self.interpersonal == 'introvert':
+                    self.anxiety = max(10, self.anxiety + 1)
                     return '\n\t' + self.first_name + ' looked away.'
                 elif other.interpersonal == 'introvert':
+                    self.anger = max(10, self.anger + 1)
                     return '\n\t"' + other.first_name + ''', don't be so shy," said ''' + self.first_name + '. '
                 elif self_feeling == 'fine' or self.interpersonal == 'introvert':
+                    self.anxiety = max(10, self.anxiety + 1)
                     return '''\n\t"I'm feeling fine, I guess," said ''' + self.first_name + '. '
                 else:
+                    self.anxiety = min(0, self.anxiety - 1)
+                    self.anger = min(0, self.anger - 1)
                     return '''\n\t"I'm feeling a bit ''' + self_feeling + '," said ' + self.first_name + '. '
             
 
