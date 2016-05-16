@@ -53,10 +53,11 @@ class Narrator():
         # if characters are in the same room, trigger dialogue:
         for characters in self.setting.occupants.values():
             if len(characters) > 1:
+                r.shuffle(characters)
                 self.story += characters[0].speak(characters[1], line=1)
                 self.story += characters[1].speak(characters[0], line=2)
             if len(characters) > 2:
-                self.story += characters[2].speak(characters[2])  #3rd character ignored by other 2 (temporarily?)
+                self.story += characters[2].speak(characters[2], line=3)  #3rd character ignored by other 2 (temporarily?)
     
     
 
@@ -74,3 +75,7 @@ print(n.story)
 #also basic temp save
 with open('storytemp.txt', 'w') as story_file:
     story_file.write(n.story)
+
+
+#note: end story with something like 'experiment terminated, subjects exhibiting odd repetetive automaton-like
+#behaviors.  house, contents, and occupants incenerated and all files destroyed'

@@ -13,7 +13,7 @@ LAST_NAMES = ['Alvarez', 'Burton', 'Dutton', 'Fortunado', 'Ives', 'Jenkins',
     'Kolchek', 'Liszewski', 'Ng', 'Placensio', 'Quint', 'Undermann', 'Zyk']
     
 PRONOUNS = {'M': 'he', 'F': 'she'}
-    
+
     
 class Character():
     '''These are the main actors of the story (of course!).  All aspects randomized
@@ -40,26 +40,29 @@ class Character():
         self.alive = True
         self.awake = True        
         
-        # aspects of personality that don't change (or change little/slowly)
-        self.outlook = r.randint(0, 10)         # 0 totally pessimistic to 10 totally optimistic
-        self.interpersonal = r.randint(0, 10)   # 0 totally introverted to 10 totally extroverted
-        self.attractiveness = r.randint(0, 10)  # 0 repulsive to 10 gorgeous
-        self.intelligence = r.randint(0, 10)    # 0 near-braindead to 10 supergenius
+        # aspects of personality that don't change
+        self.outlook = r.choice(['pessimist', 'optimist'])
+        self.interpersonal = r.choice(['introvert', 'extrovert'])
         
         # aspects of character that can easily change throughout story
-        self.hunger = r.randint(0, 10)         # 0 totally sated to 10 starving
-        self.sleepiness = r.randint(0, 10)     # 0 totally rested to 10 exhausted
-        self.pain_pleasure = r.randint(0, 10)  # 0 excruciating to 10 orgasmic
-        self.happiness = r.randint(0, 10)      # 0 suicidal to 10 euphoric
         self.anxiety = r.randint(0, 10)        # 0 serene to 10 panic attack
         self.anger = r.randint(0, 10)          # 0 fine to 10 raging
         
         self.inventory = []
         self.location = 'bedroom'
 
+    def get_primary_feeling(self):
+        stats = [self.anxiety, self.anger]
+        if max(stats) < 6:
+            return 'fine'
+        elif self.anger == max(stats):
+            return 'angry'
+        elif self.anxiety == max(stats):
+            return 'anxious'
+        
     def move(self):
-        # go to new room
-        if 1 < r.randint(1, 2):
+        # go to new room (based on anxiety level)
+        if self.anxiety > r.randint(1, 5):
             # make new list without current room, then pick one
             other_rooms = list(ROOMS)
             other_rooms.remove(self.location)
@@ -73,23 +76,33 @@ class Character():
         return PRONOUNS[self.sex].capitalize() + ' looks around. ' # dummy action for now
     
     def speak(self, other, line=1):
-        if self == other:
-            return '\n\t"What about me?" said ' + self.first_name + '. '
+        self_feeling = self.get_primary_feeling()
+        other_feeling = other.get_primary_feeling()
+        
+        # third character in a room is ignored (easier to code, but is interesting too)
+        if self == other and self.interpersonal == 'extrovert':
+            return '\n\t"Hello?  Why are you two ignoring me?" asked ' + self.first_name + '. '
+        elif self == other and self.interpersonal == 'introvert':
+            return '''\n\t"Fine, then don't talk to me," ''' + self.first_name + ' whispered. '
+        
         else:
-            if self.interpersonal + self.happiness > 6:
-                return '\n\t"Hello, ' + other.first_name + '," said ' + self.first_name + '. '
-            else:
-                if line == 1:
-                    return '\n\t"I just want to be alone," said ' + self.first_name + '. '
+            if line == 1:
+                if self.interpersonal == 'extrovert':
+                    return '\n\t"How are you, ' + other.first_name + '?" asked ' + self.first_name + '. '
                 else:
-                    return '\n\t"Me too," said ' + self.first_name + '. '
-                    
-        #NOTE: THIS DIALOGUE (AND LIKELY OTHER THINGS ONCE CODED) CAN EASILY GET
-        #OUT OF HAND WITH NESTED IFS -- MAYBE TRY MAKING SUB-METHODS THAT ARE CALLED
-        #BY USING A DICTIONARY???
-                
-        
-        
+                    return '\n\t"Um, hi," said ' + self.first_name + '. '
+            elif line == 2:
+                if other.interpersonal == 'introvert' and self.interpersonal == 'introvert':
+                    return '\n\t' + self.first_name + ' looked away.'
+                elif other.interpersonal == 'introvert':
+                    return '\n\t"' + other.first_name + ''', don't be so quiet," said ''' + self.first_name + '. '
+                elif self_feeling == 'fine' or self.interpersonal == 'introvert':
+                    return '''\n\t"I'm feeling fine, I guess," said ''' + self.first_name + '. '
+                else:
+                    return '''\n\t"I'm feeling a bit ''' + self_feeling + '," said ' + self.first_name + '. '
+            
+
+
    
     
     

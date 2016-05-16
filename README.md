@@ -31,6 +31,11 @@ actually SURPRISE me in joyful/absurd/creepy/funny/whatever ways
 
 TO DO NEXT!
 
--intro and fix narration/dialogue to fit with story (3 strangers awake in a house)
 -work on dialogue trees
--implement actions
+
+-code interactions between char stats and items
+-implement actions (char alone, char + item, char + char)
+
+-implement scenes
+
+-expand on content
