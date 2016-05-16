@@ -27,9 +27,8 @@ class Setting():
         # tell what is in each room, but only if a character is in there
         item_descriptions = ''
         for room in self.occupants:
-            if self.occupants[room] != []:
-                item_descriptions += 'In the ' + room + ', there is a '
-                item_descriptions += self.contents[room].item + ' ' + self.contents[room].placement + '. '
+            item_descriptions += 'In the ' + room + ', there is a '
+            item_descriptions += self.contents[room].item + ' ' + self.contents[room].placement + '. '
         return item_descriptions
             
         

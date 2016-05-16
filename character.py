@@ -35,7 +35,7 @@ class Character():
         self.last_name = r.choice(LAST_NAMES)
         self.full_name = self.first_name + ' ' + self.last_name
         self.age = r.randint(20, 50)
-        
+                
         # status flags
         self.alive = True
         self.awake = True        
