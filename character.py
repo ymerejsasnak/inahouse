@@ -43,7 +43,8 @@ class Character():
         # aspects of personality that don't change (or change little/slowly)
         self.outlook = r.randint(0, 10)         # 0 totally pessimistic to 10 totally optimistic
         self.interpersonal = r.randint(0, 10)   # 0 totally introverted to 10 totally extroverted
-        self.attractiveness = r.randint(0, 10)  # 0 ugly to 10 gorgeous
+        self.attractiveness = r.randint(0, 10)  # 0 repulsive to 10 gorgeous
+        self.intelligence = r.randint(0, 10)    # 0 near-braindead to 10 supergenius
         
         # aspects of character that can easily change throughout story
         self.hunger = r.randint(0, 10)         # 0 totally sated to 10 starving
@@ -82,6 +83,10 @@ class Character():
                     return '\n\t"I just want to be alone," said ' + self.first_name + '. '
                 else:
                     return '\n\t"Me too," said ' + self.first_name + '. '
+                    
+        #NOTE: THIS DIALOGUE (AND LIKELY OTHER THINGS ONCE CODED) CAN EASILY GET
+        #OUT OF HAND WITH NESTED IFS -- MAYBE TRY MAKING SUB-METHODS THAT ARE CALLED
+        #BY USING A DICTIONARY???
                 
         
         

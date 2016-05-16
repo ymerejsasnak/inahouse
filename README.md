@@ -1,4 +1,9 @@
 # inahouse
+
+NOTE:  OK, I SEE NOW AFTER DOING SOME READING ONLINE THAT I MUST HAVE GOTTEN THIS
+IDEA BY READIN ABOUT DARIUS KAZEMI'S "TEENS WANDER AROUND A HOUSE"
+...but this will be different...and it's more programming learning/practice for me anyway
+
 code to generate a short story with objects and variables and randomness and other yummies
 (clarification:  'short story' not in a traditional, truly meaningful sort of way, 
 but far more in an 'experimental fiction' sort of vein...)
@@ -26,3 +31,7 @@ actually SURPRISE me in joyful/absurd/creepy/funny/whatever ways
 
 TO DO NEXT!
 
+-implement basic items
+-fix narration/dialogue to fit with story (3 strangers awake in a house)
+-work on dialogue trees
+-implement actions

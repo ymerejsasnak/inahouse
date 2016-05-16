@@ -3,7 +3,7 @@ import datetime
 import setting, character, item
 
 
-INTERVALS_PER_SCENE = 16 * 4  # 16 hours split into 15 minute segments
+HOURS_PER_SCENE = 16
 
 
 class Narrator():
@@ -29,10 +29,9 @@ class Narrator():
             #influence character actions (more interesting/intense things as acts go on)
     
     def increment_time(self):
-        self.time += datetime.timedelta(minutes=15)
-        variation = r.randint(-5, 5) # just for variation to printed time
+        self.time += datetime.timedelta(hours=1)
+        variation = r.randint(-25, 25) # just for variation to printed time
         self.story += '\n\tAt ' + (self.time + datetime.timedelta(minutes=variation)).strftime('%I:%M %p') + ' '
-        
         
     def action(self):
         for character in self.characters:
@@ -55,7 +54,7 @@ class Narrator():
 
 # main program for now
 n = Narrator()
-for i in range(INTERVALS_PER_SCENE):
+for i in range(HOURS_PER_SCENE):
     n.increment_time()
     n.action()
     
