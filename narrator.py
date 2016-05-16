@@ -1,6 +1,6 @@
 import random as r
 import datetime
-import setting, character, item
+import setting, character
 
 
 HOURS_PER_SCENE = 16
@@ -37,8 +37,12 @@ class Narrator():
         for character in self.characters:
             self.story += character.move()
             self.story += character.act()
+            
         # and make sure setting object knows where characters are now
         self.setting.update_occupants(self.characters)
+        
+        self.story += self.setting.show_contents()
+        
         # if characters are in the same room, trigger dialogue:
         for characters in self.setting.occupants.values():
             if len(characters) > 1:

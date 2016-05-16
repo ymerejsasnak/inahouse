@@ -1,43 +1,37 @@
 
-	At 08:47 AM Ursula Placensio stays in the bedroom. She looks around. Ivan Zyk stays in the bedroom. He looks around. Ivan Dutton enters the bathroom. He looks around. 
-	"Hello, Ivan," said Ursula. 
-	"Hello, Ursula," said Ivan. 
-	At 10:08 AM Ursula Placensio stays in the bedroom. She looks around. Ivan Zyk enters the basement. He looks around. Ivan Dutton enters the kitchen. He looks around. 
-	At 11:21 AM Ursula Placensio stays in the bedroom. She looks around. Ivan Zyk enters the bedroom. He looks around. Ivan Dutton enters the basement. He looks around. 
-	"Hello, Ivan," said Ursula. 
-	"Hello, Ursula," said Ivan. 
-	At 11:53 AM Ursula Placensio stays in the bedroom. She looks around. Ivan Zyk stays in the bedroom. He looks around. Ivan Dutton stays in the basement. He looks around. 
-	"Hello, Ivan," said Ursula. 
-	"Hello, Ursula," said Ivan. 
-	At 12:38 PM Ursula Placensio stays in the bedroom. She looks around. Ivan Zyk stays in the bedroom. He looks around. Ivan Dutton stays in the basement. He looks around. 
-	"Hello, Ivan," said Ursula. 
-	"Hello, Ursula," said Ivan. 
-	At 01:51 PM Ursula Placensio stays in the bedroom. She looks around. Ivan Zyk stays in the bedroom. He looks around. Ivan Dutton stays in the basement. He looks around. 
-	"Hello, Ivan," said Ursula. 
-	"Hello, Ursula," said Ivan. 
-	At 02:36 PM Ursula Placensio stays in the bedroom. She looks around. Ivan Zyk stays in the bedroom. He looks around. Ivan Dutton enters the living room. He looks around. 
-	"Hello, Ivan," said Ursula. 
-	"Hello, Ursula," said Ivan. 
-	At 03:56 PM Ursula Placensio stays in the bedroom. She looks around. Ivan Zyk stays in the bedroom. He looks around. Ivan Dutton stays in the living room. He looks around. 
-	"Hello, Ivan," said Ursula. 
-	"Hello, Ursula," said Ivan. 
-	At 04:40 PM Ursula Placensio enters the basement. She looks around. Ivan Zyk stays in the bedroom. He looks around. Ivan Dutton stays in the living room. He looks around. 
-	At 05:54 PM Ursula Placensio stays in the basement. She looks around. Ivan Zyk stays in the bedroom. He looks around. Ivan Dutton enters the kitchen. He looks around. 
-	At 06:55 PM Ursula Placensio enters the bedroom. She looks around. Ivan Zyk stays in the bedroom. He looks around. Ivan Dutton enters the basement. He looks around. 
-	"Hello, Ivan," said Ursula. 
-	"Hello, Ursula," said Ivan. 
-	At 08:17 PM Ursula Placensio stays in the bedroom. She looks around. Ivan Zyk stays in the bedroom. He looks around. Ivan Dutton stays in the basement. He looks around. 
-	"Hello, Ivan," said Ursula. 
-	"Hello, Ursula," said Ivan. 
-	At 08:41 PM Ursula Placensio enters the kitchen. She looks around. Ivan Zyk enters the basement. He looks around. Ivan Dutton stays in the basement. He looks around. 
-	"Hello, Ivan," said Ivan. 
-	"Hello, Ivan," said Ivan. 
-	At 10:16 PM Ursula Placensio enters the basement. She looks around. Ivan Zyk enters the bedroom. He looks around. Ivan Dutton enters the bedroom. He looks around. 
-	"Hello, Ivan," said Ivan. 
-	"Hello, Ivan," said Ivan. 
-	At 10:38 PM Ursula Placensio enters the bedroom. She looks around. Ivan Zyk enters the bathroom. He looks around. Ivan Dutton stays in the bedroom. He looks around. 
-	"Hello, Ivan," said Ursula. 
-	"Hello, Ursula," said Ivan. 
-	At 12:13 AM Ursula Placensio enters the living room. She looks around. Ivan Zyk enters the bedroom. He looks around. Ivan Dutton stays in the bedroom. He looks around. 
-	"Hello, Ivan," said Ivan. 
-	"Hello, Ivan," said Ivan. 
+	At 09:05 AM Tatyana Fortunado stays in the bedroom. She looks around. Kevin Burton stays in the bedroom. He looks around. Diego Undermann enters the bathroom. He looks around. In the bathroom, there is a sliver of soap on the counter. In the bedroom, there is a locked diary on the nightstand. 
+	"I just want to be alone," said Tatyana. 
+	"Hello, Tatyana," said Kevin. 
+	At 09:39 AM Tatyana Fortunado stays in the bedroom. She looks around. Kevin Burton stays in the bedroom. He looks around. Diego Undermann enters the living room. He looks around. In the bedroom, there is a locked diary on the nightstand. In the living room, there is a cracked porcelain angel on the coffee table. 
+	"I just want to be alone," said Tatyana. 
+	"Hello, Tatyana," said Kevin. 
+	At 10:55 AM Tatyana Fortunado enters the living room. She looks around. Kevin Burton stays in the bedroom. He looks around. Diego Undermann stays in the living room. He looks around. In the bedroom, there is a locked diary on the nightstand. In the living room, there is a cracked porcelain angel on the coffee table. 
+	"I just want to be alone," said Tatyana. 
+	"Hello, Tatyana," said Diego. 
+	At 11:50 AM Tatyana Fortunado enters the bathroom. She looks around. Kevin Burton stays in the bedroom. He looks around. Diego Undermann enters the bedroom. He looks around. In the bathroom, there is a sliver of soap on the counter. In the bedroom, there is a locked diary on the nightstand. 
+	"Hello, Diego," said Kevin. 
+	"Hello, Kevin," said Diego. 
+	At 01:00 PM Tatyana Fortunado stays in the bathroom. She looks around. Kevin Burton enters the bathroom. He looks around. Diego Undermann stays in the bedroom. He looks around. In the bathroom, there is a sliver of soap on the counter. In the bedroom, there is a locked diary on the nightstand. 
+	"I just want to be alone," said Tatyana. 
+	"Hello, Tatyana," said Kevin. 
+	At 02:03 PM Tatyana Fortunado enters the bedroom. She looks around. Kevin Burton enters the kitchen. He looks around. Diego Undermann enters the kitchen. He looks around. In the bedroom, there is a locked diary on the nightstand. In the kitchen, there is a cracked glass on the table. 
+	"Hello, Diego," said Kevin. 
+	"Hello, Kevin," said Diego. 
+	At 02:45 PM Tatyana Fortunado enters the bathroom. She looks around. Kevin Burton stays in the kitchen. He looks around. Diego Undermann enters the basement. He looks around. In the bathroom, there is a sliver of soap on the counter. In the basement, there is a moldy blanket behind the furnace. In the kitchen, there is a cracked glass on the table. 
+	At 04:05 PM Tatyana Fortunado stays in the bathroom. She looks around. Kevin Burton enters the living room. He looks around. Diego Undermann stays in the basement. He looks around. In the bathroom, there is a sliver of soap on the counter. In the basement, there is a moldy blanket behind the furnace. In the living room, there is a cracked porcelain angel on the coffee table. 
+	At 04:40 PM Tatyana Fortunado stays in the bathroom. She looks around. Kevin Burton stays in the living room. He looks around. Diego Undermann stays in the basement. He looks around. In the bathroom, there is a sliver of soap on the counter. In the basement, there is a moldy blanket behind the furnace. In the living room, there is a cracked porcelain angel on the coffee table. 
+	At 05:41 PM Tatyana Fortunado stays in the bathroom. She looks around. Kevin Burton enters the bathroom. He looks around. Diego Undermann enters the kitchen. He looks around. In the bathroom, there is a sliver of soap on the counter. In the kitchen, there is a cracked glass on the table. 
+	"I just want to be alone," said Tatyana. 
+	"Hello, Tatyana," said Kevin. 
+	At 06:46 PM Tatyana Fortunado enters the kitchen. She looks around. Kevin Burton enters the basement. He looks around. Diego Undermann enters the bedroom. He looks around. In the basement, there is a moldy blanket behind the furnace. In the bedroom, there is a locked diary on the nightstand. In the kitchen, there is a cracked glass on the table. 
+	At 08:03 PM Tatyana Fortunado stays in the kitchen. She looks around. Kevin Burton stays in the basement. He looks around. Diego Undermann enters the basement. He looks around. In the basement, there is a moldy blanket behind the furnace. In the kitchen, there is a cracked glass on the table. 
+	"Hello, Diego," said Kevin. 
+	"Hello, Kevin," said Diego. 
+	At 09:22 PM Tatyana Fortunado enters the basement. She looks around. Kevin Burton enters the living room. He looks around. Diego Undermann enters the bathroom. He looks around. In the bathroom, there is a sliver of soap on the counter. In the basement, there is a moldy blanket behind the furnace. In the living room, there is a cracked porcelain angel on the coffee table. 
+	At 10:18 PM Tatyana Fortunado stays in the basement. She looks around. Kevin Burton enters the bathroom. He looks around. Diego Undermann enters the kitchen. He looks around. In the bathroom, there is a sliver of soap on the counter. In the basement, there is a moldy blanket behind the furnace. In the kitchen, there is a cracked glass on the table. 
+	At 11:08 PM Tatyana Fortunado enters the bathroom. She looks around. Kevin Burton stays in the bathroom. He looks around. Diego Undermann enters the basement. He looks around. In the bathroom, there is a sliver of soap on the counter. In the basement, there is a moldy blanket behind the furnace. 
+	"I just want to be alone," said Tatyana. 
+	"Hello, Tatyana," said Kevin. 
+	At 11:40 PM Tatyana Fortunado stays in the bathroom. She looks around. Kevin Burton stays in the bathroom. He looks around. Diego Undermann enters the kitchen. He looks around. In the bathroom, there is a sliver of soap on the counter. In the kitchen, there is a cracked glass on the table. 
+	"I just want to be alone," said Tatyana. 
+	"Hello, Tatyana," said Kevin. 

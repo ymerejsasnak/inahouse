@@ -1,4 +1,5 @@
 import random as r
+import item
 
 
 ROOMS = ['bathroom', 'kitchen', 'living room', 'bedroom', 'basement'] 
@@ -12,7 +13,7 @@ class Setting():
     load them into a dict that keeps track of 'contents' and 'occupants'.'''
     
     def __init__(self):
-        self.contents = {key: [] for key in ROOMS}
+        self.contents = {key: item.Item(key) for key in ROOMS}
         self.occupants = {key: [] for key in ROOMS}
             
     def update_occupants(self, characters):
@@ -21,4 +22,16 @@ class Setting():
         # then update with new ones
         for character in characters:
             self.occupants[character.location].append(character)
+    
+    def show_contents(self):
+        # tell what is in each room, but only if a character is in there
+        item_descriptions = ''
+        for room in self.occupants:
+            if self.occupants[room] != []:
+                item_descriptions += 'In the ' + room + ', there is a '
+                item_descriptions += self.contents[room].item + ' ' + self.contents[room].placement + '. '
+        return item_descriptions
+            
+        
+        
         

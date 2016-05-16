@@ -31,7 +31,6 @@ actually SURPRISE me in joyful/absurd/creepy/funny/whatever ways
 
 TO DO NEXT!
 
--implement basic items
 -fix narration/dialogue to fit with story (3 strangers awake in a house)
 -work on dialogue trees
 -implement actions
