@@ -14,7 +14,6 @@ objects involved (each in individual files with more descriptions therein):
 story: controls the interaction of other objects and the generation of the text
 setting: the object that defines a room/contains the rooms (we'll see...)
 character: randomized people that act according to various variables and whatnot
-item: 'object' in the physical world sense...things for the characters to interact with
 
 big goals/ideals: 
 1 - to make the code have enough randomness and possibility within it that 
@@ -31,12 +30,21 @@ actually SURPRISE me in joyful/absurd/creepy/funny/whatever ways
 
 TO DO NEXT!
 
--work on dialogue trees (more random options at end of if branches)
--work on actions (char alone, char + item, char + char)
-(and stat changes for both of above)
+- realization: this was too ambitious for my current ability level
+(and also I should have put more work into planning it before jumping into coding)
 
--code interactions between char and items
+so simplify:
+- remove items (simplify!)
+- make it only 2 characters
 
--implement scenes
 
--expand on content
+more ideas/todo:
+- add character regard variables (how chars view each other, 1 for personality 1 for attractiveness)
+(which will only come into play in scene 2 and 3?
+- add random descriptions/sentences?
+- work on dialogue trees (more random options at end of if branches)
+- expand actions to involve char + char
+
+- implement scenes (make just make diff method for each scene ie act1, act2...speak1, speak2, etc.)
+
+-expand on content (more random options, etc....and add some flavor actions/dialogue per person)
